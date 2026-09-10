@@ -1,0 +1,1201 @@
+record_id,timestamp,entity_type,location_zone,contract_amount,single_bidder_flag,anomaly_flag,confidence_score
+REC-00001,2025-11-24,Civil Infrastructure,City Water Authority,30.816,28.344,0,0.961
+REC-00002,2025-10-07,Renewable Utilities,Metro Transit Agency,12.702,11.392,0,0.946
+REC-00003,2025-10-15,Renewable Utilities,Metro Transit Agency,28.737,32.893,0,0.881
+REC-00004,2025-03-23,Defense Logistics,City Water Authority,33.619,32.195,0,0.891
+REC-00005,2025-07-14,Municipal IT Services,City Water Authority,61.317,76.865,0,0.939
+REC-00006,2025-07-13,Renewable Utilities,City Water Authority,80.499,93.319,0,0.944
+REC-00007,2025-12-27,Civil Infrastructure,State Highway Admin,75.711,101.65,0,0.975
+REC-00008,2025-07-14,Defense Logistics,City Water Authority,23.826,24.484,0,0.957
+REC-00009,2025-12-16,Civil Infrastructure,National Health Board,63.973,71.462,0,0.931
+REC-00010,2025-05-19,Renewable Utilities,State Highway Admin,68.192,86.701,0,0.905
+REC-00011,2025-01-17,Defense Logistics,City Water Authority,15.626,20.416,0,0.959
+REC-00012,2025-04-19,Defense Logistics,Metro Transit Agency,85.198,99.803,0,0.895
+REC-00013,2025-10-15,Municipal IT Services,National Health Board,46.417,52.997,0,0.99
+REC-00014,2025-03-12,Defense Logistics,Federal Department A,74.241,95.069,0,0.898
+REC-00015,2025-12-15,Renewable Utilities,Federal Department A,42.705,49.023,0,0.908
+REC-00016,2025-10-11,Civil Infrastructure,National Health Board,73.825,91.122,0,0.912
+REC-00017,2025-03-22,Civil Infrastructure,City Water Authority,92.61,114.001,1,0.892
+REC-00018,2025-11-17,Renewable Utilities,National Health Board,26.907,27.901,0,0.985
+REC-00019,2025-09-29,Renewable Utilities,City Water Authority,51.531,46.684,0,0.988
+REC-00020,2025-06-07,Civil Infrastructure,State Highway Admin,84.631,112.007,0,0.933
+REC-00021,2025-02-05,Public Health Supplies,State Highway Admin,66.079,87.451,0,0.938
+REC-00022,2025-11-07,Public Health Supplies,National Health Board,74.198,88.662,0,0.924
+REC-00023,2025-12-10,Municipal IT Services,Metro Transit Agency,86.467,93.016,0,0.887
+REC-00024,2025-01-11,Renewable Utilities,State Highway Admin,60.017,51.23,0,0.886
+REC-00025,2025-02-04,Municipal IT Services,Federal Department A,53.703,53.125,0,0.939
+REC-00026,2025-10-20,Defense Logistics,State Highway Admin,76.693,96.154,0,0.891
+REC-00027,2025-08-09,Defense Logistics,Metro Transit Agency,49.697,60.359,0,0.988
+REC-00028,2025-02-20,Defense Logistics,City Water Authority,78.05,70.607,0,0.939
+REC-00029,2025-03-13,Public Health Supplies,City Water Authority,49.323,63.491,0,0.969
+REC-00030,2025-10-09,Civil Infrastructure,National Health Board,81.062,108.177,0,0.973
+REC-00031,2025-03-27,Defense Logistics,Metro Transit Agency,28.169,29.592,0,0.922
+REC-00032,2025-07-19,Defense Logistics,City Water Authority,45.956,61.06,0,0.941
+REC-00033,2025-09-07,Public Health Supplies,City Water Authority,28.505,25.063,0,0.887
+REC-00034,2025-06-10,Civil Infrastructure,National Health Board,50.527,66.175,0,0.886
+REC-00035,2025-09-18,Public Health Supplies,Federal Department A,60.578,71.943,0,0.893
+REC-00036,2025-10-19,Renewable Utilities,National Health Board,13.378,11.92,0,0.942
+REC-00037,2025-06-11,Public Health Supplies,City Water Authority,30.288,31.739,0,0.913
+REC-00038,2025-06-11,Civil Infrastructure,Metro Transit Agency,62.799,71.057,0,0.939
+REC-00039,2025-09-17,Public Health Supplies,City Water Authority,84.873,109.455,0,0.897
+REC-00040,2025-10-06,Renewable Utilities,National Health Board,10.665,13.422,0,0.953
+REC-00041,2025-03-10,Civil Infrastructure,Federal Department A,73.105,67.821,0,0.903
+REC-00042,2025-06-25,Municipal IT Services,National Health Board,51.525,67.12,0,0.89
+REC-00043,2025-08-05,Civil Infrastructure,Federal Department A,38.352,35.108,0,0.898
+REC-00044,2025-08-15,Defense Logistics,National Health Board,10.822,9.606,0,0.979
+REC-00045,2025-10-07,Municipal IT Services,National Health Board,56.965,60.662,1,0.92
+REC-00046,2025-01-21,Public Health Supplies,State Highway Admin,66.689,68.479,0,0.976
+REC-00047,2025-11-14,Public Health Supplies,State Highway Admin,92.978,116.723,1,0.883
+REC-00048,2025-06-20,Public Health Supplies,City Water Authority,23.532,28.253,0,0.884
+REC-00049,2025-08-29,Public Health Supplies,Metro Transit Agency,39.721,50.059,0,0.905
+REC-00050,2025-12-04,Defense Logistics,City Water Authority,33.681,29.798,0,0.919
+REC-00051,2025-09-18,Renewable Utilities,City Water Authority,89.835,81.541,0,0.9
+REC-00052,2025-05-16,Civil Infrastructure,National Health Board,46.938,56.996,0,0.947
+REC-00053,2025-09-19,Defense Logistics,National Health Board,26.157,22.814,0,0.937
+REC-00054,2025-10-03,Public Health Supplies,City Water Authority,46.66,61.798,0,0.949
+REC-00055,2025-12-06,Municipal IT Services,National Health Board,36.289,38.256,0,0.913
+REC-00056,2025-03-07,Defense Logistics,Metro Transit Agency,67.572,87.938,0,0.913
+REC-00057,2025-10-08,Municipal IT Services,City Water Authority,27.866,34.634,0,0.915
+REC-00058,2025-08-15,Public Health Supplies,National Health Board,50.221,65.317,0,0.899
+REC-00059,2025-02-13,Renewable Utilities,National Health Board,38.491,48.468,0,0.954
+REC-00060,2025-04-26,Public Health Supplies,Federal Department A,13.928,18.691,0,0.965
+REC-00061,2025-08-22,Renewable Utilities,State Highway Admin,71.059,74.043,0,0.896
+REC-00062,2025-12-19,Civil Infrastructure,Metro Transit Agency,28.601,35.81,0,0.931
+REC-00063,2025-10-13,Civil Infrastructure,Metro Transit Agency,21.334,23.09,0,0.941
+REC-00064,2025-06-12,Renewable Utilities,National Health Board,46.273,60.313,0,0.898
+REC-00065,2025-09-01,Municipal IT Services,State Highway Admin,81.388,80.465,0,0.933
+REC-00066,2025-05-03,Defense Logistics,Federal Department A,70.651,68.337,0,0.978
+REC-00067,2025-02-11,Public Health Supplies,State Highway Admin,42.558,39.426,0,0.926
+REC-00068,2025-06-19,Defense Logistics,Metro Transit Agency,15.293,19.368,0,0.965
+REC-00069,2025-12-23,Renewable Utilities,Metro Transit Agency,50.543,66.786,0,0.923
+REC-00070,2025-08-03,Renewable Utilities,National Health Board,86.314,94.437,0,0.933
+REC-00071,2025-07-19,Defense Logistics,State Highway Admin,81.443,106.672,0,0.939
+REC-00072,2025-07-21,Renewable Utilities,Federal Department A,17.136,18.238,0,0.9
+REC-00073,2025-05-14,Municipal IT Services,State Highway Admin,48.649,49.561,0,0.911
+REC-00074,2025-08-04,Civil Infrastructure,Metro Transit Agency,11.648,13.042,0,0.918
+REC-00075,2025-11-29,Civil Infrastructure,Federal Department A,90.717,86.152,1,0.897
+REC-00076,2025-03-06,Civil Infrastructure,National Health Board,90.559,98.032,1,0.921
+REC-00077,2025-11-07,Civil Infrastructure,State Highway Admin,92.001,83.173,1,0.914
+REC-00078,2025-12-13,Defense Logistics,State Highway Admin,16.46,19.675,0,0.891
+REC-00079,2025-06-04,Renewable Utilities,Federal Department A,77.679,88.008,1,0.939
+REC-00080,2025-12-05,Civil Infrastructure,National Health Board,65.041,55.696,0,0.934
+REC-00081,2025-08-10,Defense Logistics,State Highway Admin,47.016,57.214,0,0.91
+REC-00082,2025-10-03,Defense Logistics,Metro Transit Agency,80.187,91.913,0,0.907
+REC-00083,2025-02-14,Defense Logistics,State Highway Admin,73.79,83.746,0,0.917
+REC-00084,2025-09-11,Public Health Supplies,Metro Transit Agency,28.03,35.007,0,0.977
+REC-00085,2025-12-26,Renewable Utilities,Federal Department A,53.913,50.976,0,0.925
+REC-00086,2025-10-12,Defense Logistics,Metro Transit Agency,48.095,41.295,0,0.924
+REC-00087,2025-05-05,Renewable Utilities,City Water Authority,50.227,56.026,0,0.962
+REC-00088,2025-06-19,Defense Logistics,City Water Authority,36.063,34.81,0,0.915
+REC-00089,2025-10-02,Public Health Supplies,State Highway Admin,28.393,31.008,0,0.987
+REC-00090,2025-09-26,Municipal IT Services,Federal Department A,80.773,80.621,0,0.913
+REC-00091,2025-10-01,Municipal IT Services,Federal Department A,92.815,104.573,1,0.894
+REC-00092,2025-09-09,Civil Infrastructure,National Health Board,34.169,37.222,0,0.986
+REC-00093,2025-05-10,Civil Infrastructure,Federal Department A,44.06,39.083,0,0.886
+REC-00094,2025-03-18,Municipal IT Services,Federal Department A,94.483,85.906,1,0.947
+REC-00095,2025-11-13,Renewable Utilities,Metro Transit Agency,48.294,51.74,0,0.989
+REC-00096,2025-06-06,Renewable Utilities,Federal Department A,61.819,75.422,0,0.903
+REC-00097,2025-04-19,Civil Infrastructure,State Highway Admin,30.389,34.218,0,0.925
+REC-00098,2025-12-19,Defense Logistics,City Water Authority,12.774,12.698,0,0.975
+REC-00099,2025-02-06,Public Health Supplies,City Water Authority,76.965,89.474,0,0.983
+REC-00100,2025-08-06,Renewable Utilities,State Highway Admin,65.049,84.837,0,0.888
+REC-00101,2025-03-26,Renewable Utilities,National Health Board,88.301,94.445,0,0.913
+REC-00102,2025-07-26,Renewable Utilities,National Health Board,51.973,46.267,1,0.928
+REC-00103,2025-06-15,Municipal IT Services,Federal Department A,17.763,23.642,0,0.943
+REC-00104,2025-01-11,Municipal IT Services,National Health Board,13.42,16.482,0,0.952
+REC-00105,2025-05-23,Renewable Utilities,Metro Transit Agency,63.957,70.088,0,0.918
+REC-00106,2025-06-20,Civil Infrastructure,State Highway Admin,38.033,45.519,0,0.984
+REC-00107,2025-10-09,Defense Logistics,Federal Department A,36.734,37.161,0,0.924
+REC-00108,2025-09-21,Renewable Utilities,Metro Transit Agency,45.126,42.59,0,0.963
+REC-00109,2025-11-17,Civil Infrastructure,State Highway Admin,32.7,29.937,0,0.977
+REC-00110,2025-09-06,Civil Infrastructure,National Health Board,77.942,93.912,0,0.882
+REC-00111,2025-07-28,Public Health Supplies,Federal Department A,49.223,44.731,0,0.935
+REC-00112,2025-05-30,Municipal IT Services,Metro Transit Agency,80.952,108.486,0,0.941
+REC-00113,2025-07-16,Renewable Utilities,National Health Board,73.435,67.432,0,0.965
+REC-00114,2025-08-01,Renewable Utilities,City Water Authority,79.747,79.063,0,0.945
+REC-00115,2025-12-04,Public Health Supplies,Metro Transit Agency,55.779,57.037,0,0.94
+REC-00116,2025-08-22,Public Health Supplies,State Highway Admin,58.603,56.656,0,0.885
+REC-00117,2025-08-31,Defense Logistics,State Highway Admin,52.103,45.252,0,0.945
+REC-00118,2025-02-21,Civil Infrastructure,National Health Board,87.388,74.95,0,0.976
+REC-00119,2025-03-21,Defense Logistics,City Water Authority,38.778,46.392,0,0.974
+REC-00120,2025-12-12,Defense Logistics,City Water Authority,63.278,81.864,0,0.94
+REC-00121,2025-11-13,Public Health Supplies,City Water Authority,94.781,115.953,1,0.891
+REC-00122,2025-11-21,Defense Logistics,State Highway Admin,68.99,89.805,1,0.968
+REC-00123,2025-05-31,Municipal IT Services,Metro Transit Agency,22.373,24.959,0,0.967
+REC-00124,2025-03-29,Civil Infrastructure,National Health Board,84.021,97.452,0,0.98
+REC-00125,2025-03-15,Defense Logistics,City Water Authority,49.063,58.062,0,0.931
+REC-00126,2025-05-28,Renewable Utilities,State Highway Admin,16.278,21.53,0,0.913
+REC-00127,2025-08-06,Municipal IT Services,Metro Transit Agency,81.851,77.726,0,0.933
+REC-00128,2025-05-02,Renewable Utilities,City Water Authority,58.859,79.245,0,0.988
+REC-00129,2025-12-04,Municipal IT Services,Federal Department A,58.104,69.312,0,0.885
+REC-00130,2025-11-07,Municipal IT Services,State Highway Admin,61.601,63.213,0,0.948
+REC-00131,2025-12-14,Public Health Supplies,Federal Department A,86.789,101.818,0,0.928
+REC-00132,2025-10-24,Public Health Supplies,Federal Department A,87.318,88.485,0,0.902
+REC-00133,2025-10-04,Renewable Utilities,National Health Board,87.646,110.893,0,0.971
+REC-00134,2025-09-04,Municipal IT Services,Federal Department A,49.808,44.212,0,0.905
+REC-00135,2025-12-13,Defense Logistics,National Health Board,41.091,51.172,1,0.939
+REC-00136,2025-08-21,Municipal IT Services,National Health Board,42.387,49.562,0,0.954
+REC-00137,2025-08-30,Renewable Utilities,National Health Board,37.881,43.754,0,0.95
+REC-00138,2025-08-26,Municipal IT Services,Metro Transit Agency,19.917,17.381,1,0.99
+REC-00139,2025-03-01,Public Health Supplies,National Health Board,21.531,23.185,0,0.962
+REC-00140,2025-10-04,Renewable Utilities,State Highway Admin,85.26,100.39,0,0.948
+REC-00141,2025-05-24,Municipal IT Services,State Highway Admin,47.688,63.2,0,0.891
+REC-00142,2025-12-18,Renewable Utilities,City Water Authority,15.147,14.964,0,0.984
+REC-00143,2025-08-21,Public Health Supplies,National Health Board,92.543,81.002,1,0.989
+REC-00144,2025-10-17,Civil Infrastructure,National Health Board,27.608,26.448,0,0.916
+REC-00145,2025-03-17,Civil Infrastructure,City Water Authority,82.965,76.522,0,0.908
+REC-00146,2025-03-31,Civil Infrastructure,State Highway Admin,11.263,14.022,0,0.916
+REC-00147,2025-03-31,Civil Infrastructure,State Highway Admin,73.046,81.303,0,0.932
+REC-00148,2025-07-05,Renewable Utilities,Federal Department A,48.42,46.521,0,0.96
+REC-00149,2025-12-04,Municipal IT Services,Metro Transit Agency,64.684,55.989,0,0.973
+REC-00150,2025-08-07,Civil Infrastructure,Metro Transit Agency,70.554,75.618,0,0.915
+REC-00151,2025-03-17,Public Health Supplies,City Water Authority,63.067,72.066,0,0.922
+REC-00152,2025-11-02,Municipal IT Services,Metro Transit Agency,52.972,56.42,0,0.893
+REC-00153,2025-12-02,Renewable Utilities,State Highway Admin,46.556,60.246,0,0.971
+REC-00154,2025-07-24,Civil Infrastructure,City Water Authority,46.275,54.723,0,0.897
+REC-00155,2025-08-31,Civil Infrastructure,Federal Department A,17.925,16.102,0,0.969
+REC-00156,2025-10-12,Renewable Utilities,National Health Board,57.743,68.426,0,0.976
+REC-00157,2025-08-05,Municipal IT Services,National Health Board,36.558,32.968,0,0.897
+REC-00158,2025-09-04,Civil Infrastructure,City Water Authority,81.857,84.622,0,0.943
+REC-00159,2025-08-08,Renewable Utilities,National Health Board,67.373,76.022,0,0.952
+REC-00160,2025-12-22,Civil Infrastructure,State Highway Admin,33.228,40.91,0,0.919
+REC-00161,2025-04-03,Renewable Utilities,Metro Transit Agency,15.915,19.424,0,0.89
+REC-00162,2025-09-29,Defense Logistics,Metro Transit Agency,48.56,45.098,0,0.916
+REC-00163,2025-10-18,Civil Infrastructure,Federal Department A,23.224,28.501,1,0.889
+REC-00164,2025-08-15,Defense Logistics,Metro Transit Agency,61.601,65.118,0,0.936
+REC-00165,2025-06-26,Civil Infrastructure,City Water Authority,67.649,77.564,0,0.914
+REC-00166,2025-04-23,Renewable Utilities,Federal Department A,10.653,10.661,0,0.895
+REC-00167,2025-05-11,Municipal IT Services,Federal Department A,10.657,13.039,0,0.922
+REC-00168,2025-12-27,Renewable Utilities,National Health Board,80.835,101.294,0,0.975
+REC-00169,2025-01-22,Civil Infrastructure,Metro Transit Agency,88.299,113.116,0,0.943
+REC-00170,2025-11-24,Municipal IT Services,Federal Department A,44.428,59.227,0,0.984
+REC-00171,2025-08-24,Municipal IT Services,Federal Department A,47.121,42.547,0,0.924
+REC-00172,2025-02-10,Municipal IT Services,City Water Authority,28.834,35.741,0,0.95
+REC-00173,2025-09-29,Public Health Supplies,City Water Authority,39.843,52.956,0,0.896
+REC-00174,2025-02-22,Municipal IT Services,State Highway Admin,24.747,22.926,0,0.888
+REC-00175,2025-11-18,Defense Logistics,National Health Board,74.59,80.143,0,0.942
+REC-00176,2025-11-22,Municipal IT Services,City Water Authority,22.831,20.186,0,0.913
+REC-00177,2025-05-21,Civil Infrastructure,City Water Authority,53.124,53.4,0,0.886
+REC-00178,2025-05-27,Civil Infrastructure,National Health Board,60.497,63.052,0,0.985
+REC-00179,2025-01-22,Renewable Utilities,State Highway Admin,37.33,40.608,0,0.887
+REC-00180,2025-02-22,Civil Infrastructure,National Health Board,64.921,56.453,0,0.989
+REC-00181,2025-09-26,Renewable Utilities,State Highway Admin,40.931,53.577,0,0.965
+REC-00182,2025-12-14,Civil Infrastructure,City Water Authority,15.603,14.0,0,0.911
+REC-00183,2025-12-03,Public Health Supplies,City Water Authority,16.928,20.006,0,0.914
+REC-00184,2025-12-02,Defense Logistics,State Highway Admin,60.579,79.904,0,0.921
+REC-00185,2025-06-18,Renewable Utilities,Federal Department A,64.912,68.917,0,0.92
+REC-00186,2025-04-03,Municipal IT Services,Metro Transit Agency,26.32,35.532,0,0.913
+REC-00187,2025-02-21,Renewable Utilities,National Health Board,13.209,13.452,0,0.894
+REC-00188,2025-07-12,Public Health Supplies,State Highway Admin,80.664,99.664,0,0.898
+REC-00189,2025-08-13,Defense Logistics,City Water Authority,67.491,65.383,0,0.911
+REC-00190,2025-08-18,Renewable Utilities,State Highway Admin,36.305,45.538,0,0.972
+REC-00191,2025-07-08,Renewable Utilities,Metro Transit Agency,49.243,48.794,0,0.938
+REC-00192,2025-03-24,Renewable Utilities,State Highway Admin,84.205,73.771,0,0.921
+REC-00193,2025-02-22,Civil Infrastructure,City Water Authority,17.129,15.933,0,0.936
+REC-00194,2025-08-12,Public Health Supplies,Metro Transit Agency,85.194,112.05,0,0.924
+REC-00195,2025-07-11,Defense Logistics,Federal Department A,41.868,36.178,0,0.972
+REC-00196,2025-11-29,Public Health Supplies,State Highway Admin,13.256,17.348,0,0.971
+REC-00197,2025-08-29,Renewable Utilities,Federal Department A,86.998,74.775,0,0.896
+REC-00198,2025-11-08,Defense Logistics,Federal Department A,75.975,73.606,0,0.906
+REC-00199,2025-11-24,Defense Logistics,Federal Department A,19.423,25.3,0,0.882
+REC-00200,2025-09-21,Public Health Supplies,State Highway Admin,34.758,29.571,0,0.943
+REC-00201,2025-04-06,Civil Infrastructure,National Health Board,92.846,82.061,1,0.936
+REC-00202,2025-09-17,Civil Infrastructure,Metro Transit Agency,84.233,73.432,0,0.921
+REC-00203,2025-01-09,Civil Infrastructure,City Water Authority,30.496,35.941,0,0.944
+REC-00204,2025-06-20,Civil Infrastructure,City Water Authority,56.411,70.895,0,0.966
+REC-00205,2025-08-26,Defense Logistics,State Highway Admin,78.977,69.622,0,0.93
+REC-00206,2025-05-31,Civil Infrastructure,State Highway Admin,85.292,85.957,0,0.924
+REC-00207,2025-10-06,Municipal IT Services,Federal Department A,74.03,69.999,0,0.966
+REC-00208,2025-12-02,Municipal IT Services,Federal Department A,77.944,83.281,0,0.928
+REC-00209,2025-07-17,Public Health Supplies,Metro Transit Agency,68.826,71.144,0,0.909
+REC-00210,2025-02-12,Civil Infrastructure,Metro Transit Agency,61.209,77.195,0,0.915
+REC-00211,2025-02-10,Municipal IT Services,City Water Authority,47.903,57.907,0,0.929
+REC-00212,2025-08-17,Municipal IT Services,National Health Board,94.843,93.636,1,0.984
+REC-00213,2025-02-08,Defense Logistics,City Water Authority,53.612,65.672,0,0.883
+REC-00214,2025-11-08,Defense Logistics,Federal Department A,20.73,20.067,0,0.92
+REC-00215,2025-10-18,Renewable Utilities,State Highway Admin,67.72,89.689,0,0.964
+REC-00216,2025-10-21,Renewable Utilities,City Water Authority,43.833,51.494,0,0.892
+REC-00217,2025-04-06,Renewable Utilities,Metro Transit Agency,87.651,79.664,0,0.957
+REC-00218,2025-04-20,Municipal IT Services,Metro Transit Agency,27.015,24.796,0,0.899
+REC-00219,2025-08-16,Municipal IT Services,City Water Authority,70.311,79.1,0,0.913
+REC-00220,2025-03-22,Public Health Supplies,City Water Authority,53.244,48.488,0,0.895
+REC-00221,2025-09-10,Municipal IT Services,National Health Board,58.644,63.553,0,0.894
+REC-00222,2025-02-14,Municipal IT Services,Metro Transit Agency,94.966,114.855,1,0.965
+REC-00223,2025-10-22,Public Health Supplies,City Water Authority,64.599,69.443,0,0.918
+REC-00224,2025-10-10,Renewable Utilities,State Highway Admin,75.261,68.827,0,0.976
+REC-00225,2025-03-05,Public Health Supplies,City Water Authority,23.996,24.268,0,0.918
+REC-00226,2025-09-23,Civil Infrastructure,City Water Authority,26.686,35.444,0,0.949
+REC-00227,2025-11-11,Civil Infrastructure,National Health Board,64.484,73.892,0,0.899
+REC-00228,2025-11-16,Municipal IT Services,National Health Board,13.502,17.308,0,0.984
+REC-00229,2025-10-23,Public Health Supplies,National Health Board,45.41,53.107,0,0.949
+REC-00230,2025-05-29,Municipal IT Services,Metro Transit Agency,30.815,38.632,0,0.93
+REC-00231,2025-12-19,Public Health Supplies,Metro Transit Agency,45.328,49.055,0,0.896
+REC-00232,2025-06-13,Defense Logistics,State Highway Admin,74.657,82.682,0,0.907
+REC-00233,2025-03-04,Defense Logistics,State Highway Admin,21.975,19.235,0,0.975
+REC-00234,2025-08-03,Public Health Supplies,City Water Authority,89.369,108.187,0,0.898
+REC-00235,2025-09-21,Defense Logistics,City Water Authority,52.276,46.788,0,0.93
+REC-00236,2025-05-04,Renewable Utilities,City Water Authority,14.136,14.004,0,0.973
+REC-00237,2025-12-11,Municipal IT Services,National Health Board,10.695,9.666,0,0.909
+REC-00238,2025-07-07,Municipal IT Services,Federal Department A,44.049,50.002,0,0.941
+REC-00239,2025-02-07,Renewable Utilities,Metro Transit Agency,74.974,74.214,0,0.955
+REC-00240,2025-03-02,Civil Infrastructure,Metro Transit Agency,41.722,56.049,0,0.92
+REC-00241,2025-03-15,Renewable Utilities,National Health Board,44.118,38.388,1,0.958
+REC-00242,2025-08-31,Defense Logistics,State Highway Admin,61.532,68.162,0,0.947
+REC-00243,2025-03-25,Renewable Utilities,City Water Authority,60.467,66.735,0,0.934
+REC-00244,2025-10-16,Defense Logistics,Federal Department A,41.31,49.031,0,0.944
+REC-00245,2025-12-19,Civil Infrastructure,National Health Board,50.34,67.13,0,0.965
+REC-00246,2025-10-23,Civil Infrastructure,National Health Board,50.838,56.538,0,0.965
+REC-00247,2025-07-14,Public Health Supplies,Federal Department A,58.668,70.417,0,0.929
+REC-00248,2025-08-03,Defense Logistics,State Highway Admin,44.882,55.541,0,0.976
+REC-00249,2025-02-01,Renewable Utilities,State Highway Admin,57.675,77.807,0,0.921
+REC-00250,2025-03-30,Renewable Utilities,City Water Authority,56.433,67.039,0,0.955
+REC-00251,2025-12-21,Renewable Utilities,Metro Transit Agency,26.342,25.638,0,0.905
+REC-00252,2025-06-02,Public Health Supplies,Metro Transit Agency,36.948,37.85,0,0.967
+REC-00253,2025-05-21,Civil Infrastructure,National Health Board,67.513,70.203,0,0.97
+REC-00254,2025-03-16,Civil Infrastructure,City Water Authority,91.202,81.126,1,0.952
+REC-00255,2025-09-03,Public Health Supplies,National Health Board,33.046,37.375,0,0.892
+REC-00256,2025-10-28,Public Health Supplies,Federal Department A,66.936,74.668,0,0.886
+REC-00257,2025-07-31,Defense Logistics,Federal Department A,67.901,62.383,0,0.988
+REC-00258,2025-03-22,Defense Logistics,Metro Transit Agency,65.296,80.181,0,0.911
+REC-00259,2025-01-31,Renewable Utilities,State Highway Admin,55.488,67.227,0,0.98
+REC-00260,2025-03-31,Public Health Supplies,Federal Department A,94.76,99.356,1,0.983
+REC-00261,2025-05-29,Civil Infrastructure,City Water Authority,58.277,52.662,0,0.911
+REC-00262,2025-11-25,Renewable Utilities,Metro Transit Agency,85.587,78.492,0,0.91
+REC-00263,2025-02-27,Public Health Supplies,Metro Transit Agency,65.104,78.73,1,0.917
+REC-00264,2025-06-01,Public Health Supplies,State Highway Admin,61.931,72.42,0,0.927
+REC-00265,2025-06-17,Defense Logistics,Federal Department A,25.706,23.657,0,0.907
+REC-00266,2025-05-14,Public Health Supplies,Metro Transit Agency,74.069,98.291,0,0.96
+REC-00267,2025-01-06,Municipal IT Services,State Highway Admin,15.281,13.892,0,0.925
+REC-00268,2025-09-15,Civil Infrastructure,City Water Authority,41.241,39.609,0,0.933
+REC-00269,2025-08-21,Municipal IT Services,Metro Transit Agency,69.665,91.01,0,0.968
+REC-00270,2025-04-22,Renewable Utilities,Federal Department A,54.668,60.905,0,0.981
+REC-00271,2025-02-27,Renewable Utilities,National Health Board,27.183,30.4,0,0.974
+REC-00272,2025-08-15,Public Health Supplies,National Health Board,51.55,66.986,0,0.886
+REC-00273,2025-03-09,Defense Logistics,Metro Transit Agency,57.932,65.428,0,0.914
+REC-00274,2025-01-12,Municipal IT Services,Federal Department A,73.393,83.606,1,0.918
+REC-00275,2025-02-02,Civil Infrastructure,Federal Department A,93.822,101.894,1,0.9
+REC-00276,2025-03-11,Defense Logistics,City Water Authority,94.393,98.286,1,0.98
+REC-00277,2025-07-12,Renewable Utilities,State Highway Admin,65.55,67.116,0,0.939
+REC-00278,2025-09-28,Public Health Supplies,Federal Department A,74.275,99.472,0,0.959
+REC-00279,2025-08-06,Defense Logistics,State Highway Admin,31.039,31.755,0,0.983
+REC-00280,2025-02-27,Defense Logistics,National Health Board,75.115,97.039,1,0.903
+REC-00281,2025-02-21,Civil Infrastructure,Metro Transit Agency,60.812,73.074,1,0.961
+REC-00282,2025-07-25,Public Health Supplies,National Health Board,28.468,36.492,0,0.935
+REC-00283,2025-05-29,Renewable Utilities,City Water Authority,59.085,73.045,0,0.906
+REC-00284,2025-03-15,Renewable Utilities,State Highway Admin,45.153,44.592,0,0.945
+REC-00285,2025-03-31,Defense Logistics,National Health Board,52.128,69.651,0,0.954
+REC-00286,2025-09-26,Defense Logistics,Metro Transit Agency,22.683,23.55,0,0.932
+REC-00287,2025-04-26,Public Health Supplies,Metro Transit Agency,87.753,99.266,0,0.941
+REC-00288,2025-03-10,Public Health Supplies,City Water Authority,27.284,32.014,0,0.973
+REC-00289,2025-02-17,Public Health Supplies,Federal Department A,32.819,38.951,0,0.976
+REC-00290,2025-04-07,Renewable Utilities,State Highway Admin,50.749,65.199,0,0.985
+REC-00291,2025-01-08,Public Health Supplies,Federal Department A,73.485,90.178,0,0.957
+REC-00292,2025-12-27,Defense Logistics,State Highway Admin,56.927,70.462,0,0.939
+REC-00293,2025-07-03,Municipal IT Services,City Water Authority,53.589,58.875,0,0.988
+REC-00294,2025-08-29,Public Health Supplies,City Water Authority,36.598,31.945,0,0.962
+REC-00295,2025-01-09,Renewable Utilities,National Health Board,59.227,62.709,0,0.916
+REC-00296,2025-07-14,Public Health Supplies,Metro Transit Agency,56.805,75.081,0,0.964
+REC-00297,2025-09-08,Defense Logistics,Metro Transit Agency,24.3,30.314,0,0.959
+REC-00298,2025-09-08,Renewable Utilities,Federal Department A,54.535,69.234,0,0.97
+REC-00299,2025-01-25,Defense Logistics,State Highway Admin,81.616,78.818,0,0.881
+REC-00300,2025-09-16,Municipal IT Services,Federal Department A,62.516,73.98,0,0.933
+REC-00301,2025-09-07,Civil Infrastructure,National Health Board,56.89,48.694,0,0.91
+REC-00302,2025-05-27,Renewable Utilities,Metro Transit Agency,78.524,102.465,0,0.891
+REC-00303,2025-03-18,Public Health Supplies,National Health Board,54.749,68.853,0,0.924
+REC-00304,2025-07-11,Defense Logistics,National Health Board,30.673,36.765,0,0.971
+REC-00305,2025-02-11,Civil Infrastructure,Federal Department A,44.449,46.164,0,0.95
+REC-00306,2025-12-26,Civil Infrastructure,Metro Transit Agency,81.853,95.969,0,0.988
+REC-00307,2025-02-18,Civil Infrastructure,State Highway Admin,27.97,35.915,0,0.932
+REC-00308,2025-01-24,Municipal IT Services,National Health Board,57.898,50.166,0,0.915
+REC-00309,2025-04-17,Public Health Supplies,Metro Transit Agency,88.954,88.922,0,0.942
+REC-00310,2025-07-19,Renewable Utilities,City Water Authority,42.627,52.0,0,0.956
+REC-00311,2025-02-10,Municipal IT Services,Federal Department A,18.303,17.682,0,0.947
+REC-00312,2025-11-11,Defense Logistics,City Water Authority,12.518,12.351,0,0.934
+REC-00313,2025-07-02,Defense Logistics,Metro Transit Agency,25.788,29.474,0,0.965
+REC-00314,2025-06-01,Civil Infrastructure,Federal Department A,32.778,34.089,0,0.897
+REC-00315,2025-07-19,Municipal IT Services,Federal Department A,17.779,23.495,0,0.964
+REC-00316,2025-02-22,Civil Infrastructure,State Highway Admin,46.633,52.625,0,0.891
+REC-00317,2025-02-15,Renewable Utilities,Federal Department A,60.739,75.451,0,0.881
+REC-00318,2025-07-31,Civil Infrastructure,National Health Board,86.943,116.424,0,0.899
+REC-00319,2025-07-14,Public Health Supplies,City Water Authority,35.596,39.033,0,0.928
+REC-00320,2025-08-04,Defense Logistics,Federal Department A,40.696,53.805,0,0.935
+REC-00321,2025-11-12,Defense Logistics,Federal Department A,21.517,18.362,0,0.973
+REC-00322,2025-07-14,Defense Logistics,City Water Authority,46.602,58.801,0,0.945
+REC-00323,2025-06-03,Renewable Utilities,State Highway Admin,50.716,47.613,0,0.915
+REC-00324,2025-12-22,Defense Logistics,National Health Board,76.468,77.458,0,0.966
+REC-00325,2025-07-06,Renewable Utilities,State Highway Admin,60.339,67.75,0,0.941
+REC-00326,2025-08-25,Defense Logistics,City Water Authority,80.659,71.349,0,0.967
+REC-00327,2025-12-11,Public Health Supplies,City Water Authority,30.572,36.055,0,0.967
+REC-00328,2025-02-07,Renewable Utilities,Metro Transit Agency,59.491,66.462,0,0.976
+REC-00329,2025-08-03,Civil Infrastructure,City Water Authority,69.639,87.477,0,0.981
+REC-00330,2025-02-25,Municipal IT Services,State Highway Admin,64.995,56.685,0,0.955
+REC-00331,2025-07-24,Defense Logistics,Federal Department A,10.897,10.672,0,0.937
+REC-00332,2025-10-25,Renewable Utilities,State Highway Admin,47.891,50.073,0,0.945
+REC-00333,2025-09-14,Municipal IT Services,Federal Department A,51.036,50.919,0,0.889
+REC-00334,2025-03-14,Municipal IT Services,City Water Authority,48.703,46.435,0,0.932
+REC-00335,2025-08-13,Defense Logistics,City Water Authority,15.71,13.704,0,0.882
+REC-00336,2025-06-25,Civil Infrastructure,State Highway Admin,89.043,108.654,0,0.941
+REC-00337,2025-06-19,Defense Logistics,Metro Transit Agency,29.708,31.268,0,0.95
+REC-00338,2025-08-10,Civil Infrastructure,National Health Board,85.063,91.425,0,0.88
+REC-00339,2025-04-20,Municipal IT Services,Federal Department A,59.075,73.829,0,0.92
+REC-00340,2025-04-11,Civil Infrastructure,City Water Authority,67.01,73.359,0,0.914
+REC-00341,2025-07-18,Defense Logistics,National Health Board,19.71,20.222,0,0.899
+REC-00342,2025-12-11,Renewable Utilities,National Health Board,17.204,15.776,0,0.914
+REC-00343,2025-04-04,Public Health Supplies,National Health Board,43.019,49.395,0,0.927
+REC-00344,2025-09-07,Renewable Utilities,State Highway Admin,57.168,62.589,0,0.915
+REC-00345,2025-08-19,Civil Infrastructure,City Water Authority,90.907,99.298,1,0.922
+REC-00346,2025-10-15,Defense Logistics,Metro Transit Agency,68.199,72.142,0,0.934
+REC-00347,2025-02-12,Civil Infrastructure,State Highway Admin,34.828,34.39,0,0.899
+REC-00348,2025-08-23,Defense Logistics,National Health Board,53.419,60.703,0,0.94
+REC-00349,2025-07-07,Civil Infrastructure,Metro Transit Agency,56.44,75.905,0,0.971
+REC-00350,2025-05-07,Civil Infrastructure,Metro Transit Agency,32.339,41.429,0,0.975
+REC-00351,2025-03-02,Public Health Supplies,National Health Board,68.576,87.813,0,0.927
+REC-00352,2025-11-12,Public Health Supplies,State Highway Admin,78.462,89.057,0,0.946
+REC-00353,2025-03-28,Municipal IT Services,City Water Authority,58.683,77.825,0,0.979
+REC-00354,2025-02-18,Defense Logistics,Federal Department A,94.361,121.115,1,0.975
+REC-00355,2025-05-08,Municipal IT Services,State Highway Admin,74.725,88.782,0,0.944
+REC-00356,2025-05-18,Defense Logistics,Metro Transit Agency,48.419,56.496,0,0.89
+REC-00357,2025-09-21,Municipal IT Services,Metro Transit Agency,90.772,92.011,1,0.965
+REC-00358,2025-02-17,Municipal IT Services,Federal Department A,77.633,81.426,0,0.971
+REC-00359,2025-09-11,Municipal IT Services,City Water Authority,38.709,44.088,0,0.933
+REC-00360,2025-06-25,Civil Infrastructure,Federal Department A,18.464,22.931,0,0.894
+REC-00361,2025-03-22,Defense Logistics,Federal Department A,94.306,100.332,1,0.98
+REC-00362,2025-11-29,Public Health Supplies,City Water Authority,17.934,18.476,0,0.953
+REC-00363,2025-11-29,Civil Infrastructure,Metro Transit Agency,63.176,76.632,0,0.927
+REC-00364,2025-02-16,Civil Infrastructure,State Highway Admin,50.529,46.302,0,0.955
+REC-00365,2025-01-05,Municipal IT Services,Federal Department A,93.993,99.741,1,0.888
+REC-00366,2025-07-16,Civil Infrastructure,Federal Department A,36.635,47.277,0,0.965
+REC-00367,2025-03-10,Public Health Supplies,Federal Department A,55.093,47.062,0,0.928
+REC-00368,2025-04-20,Public Health Supplies,Metro Transit Agency,62.366,66.806,0,0.979
+REC-00369,2025-03-13,Renewable Utilities,Metro Transit Agency,39.881,42.461,0,0.907
+REC-00370,2025-11-27,Public Health Supplies,National Health Board,61.085,73.949,0,0.984
+REC-00371,2025-01-14,Municipal IT Services,State Highway Admin,54.009,59.667,0,0.913
+REC-00372,2025-01-28,Defense Logistics,Metro Transit Agency,19.583,21.537,0,0.938
+REC-00373,2025-01-07,Municipal IT Services,State Highway Admin,42.881,54.437,0,0.94
+REC-00374,2025-03-30,Civil Infrastructure,Federal Department A,59.926,51.35,0,0.981
+REC-00375,2025-07-23,Municipal IT Services,National Health Board,75.204,79.851,0,0.95
+REC-00376,2025-10-03,Public Health Supplies,City Water Authority,17.106,15.216,0,0.987
+REC-00377,2025-03-21,Municipal IT Services,Metro Transit Agency,59.847,73.708,0,0.951
+REC-00378,2025-06-08,Defense Logistics,State Highway Admin,14.922,13.327,0,0.93
+REC-00379,2025-11-08,Municipal IT Services,State Highway Admin,20.153,24.263,0,0.898
+REC-00380,2025-06-27,Renewable Utilities,City Water Authority,24.192,22.099,0,0.91
+REC-00381,2025-03-02,Municipal IT Services,Metro Transit Agency,33.118,29.208,0,0.943
+REC-00382,2025-02-09,Defense Logistics,National Health Board,40.611,44.664,0,0.92
+REC-00383,2025-05-11,Renewable Utilities,Federal Department A,29.414,32.485,1,0.975
+REC-00384,2025-05-06,Defense Logistics,City Water Authority,42.553,39.363,0,0.974
+REC-00385,2025-10-11,Defense Logistics,State Highway Admin,37.353,39.524,0,0.91
+REC-00386,2025-02-09,Municipal IT Services,Federal Department A,52.673,68.526,0,0.968
+REC-00387,2025-01-24,Civil Infrastructure,Metro Transit Agency,83.613,103.41,0,0.89
+REC-00388,2025-08-22,Municipal IT Services,State Highway Admin,34.786,43.213,0,0.907
+REC-00389,2025-07-08,Defense Logistics,State Highway Admin,72.259,81.167,0,0.897
+REC-00390,2025-07-29,Public Health Supplies,National Health Board,39.446,50.088,0,0.985
+REC-00391,2025-01-01,Defense Logistics,City Water Authority,18.836,21.0,0,0.934
+REC-00392,2025-01-31,Municipal IT Services,Federal Department A,13.732,13.261,0,0.925
+REC-00393,2025-07-10,Civil Infrastructure,National Health Board,18.124,16.615,0,0.888
+REC-00394,2025-10-18,Defense Logistics,State Highway Admin,30.126,29.538,0,0.968
+REC-00395,2025-12-25,Municipal IT Services,Metro Transit Agency,33.116,29.385,0,0.966
+REC-00396,2025-10-27,Public Health Supplies,Federal Department A,23.972,25.962,0,0.939
+REC-00397,2025-04-17,Municipal IT Services,Metro Transit Agency,32.526,29.597,0,0.955
+REC-00398,2025-12-27,Renewable Utilities,Federal Department A,28.277,36.146,0,0.958
+REC-00399,2025-07-02,Renewable Utilities,Federal Department A,67.561,66.215,0,0.883
+REC-00400,2025-07-27,Renewable Utilities,National Health Board,31.237,33.768,0,0.895
+REC-00401,2025-01-07,Public Health Supplies,State Highway Admin,26.841,28.191,0,0.983
+REC-00402,2025-02-13,Renewable Utilities,City Water Authority,87.981,78.083,0,0.902
+REC-00403,2025-11-27,Public Health Supplies,Federal Department A,86.932,109.941,0,0.885
+REC-00404,2025-08-25,Public Health Supplies,National Health Board,46.818,56.754,0,0.922
+REC-00405,2025-08-07,Municipal IT Services,State Highway Admin,87.206,86.115,0,0.896
+REC-00406,2025-11-11,Renewable Utilities,State Highway Admin,65.019,71.485,0,0.933
+REC-00407,2025-02-14,Defense Logistics,State Highway Admin,45.635,53.453,0,0.907
+REC-00408,2025-10-06,Defense Logistics,City Water Authority,50.773,62.995,0,0.942
+REC-00409,2025-06-14,Municipal IT Services,State Highway Admin,12.215,14.03,1,0.969
+REC-00410,2025-05-24,Defense Logistics,National Health Board,40.382,46.116,0,0.898
+REC-00411,2025-05-07,Public Health Supplies,City Water Authority,55.364,68.962,0,0.964
+REC-00412,2025-04-23,Defense Logistics,City Water Authority,89.493,120.437,0,0.906
+REC-00413,2025-06-12,Municipal IT Services,National Health Board,12.398,14.881,0,0.942
+REC-00414,2025-10-16,Defense Logistics,National Health Board,36.27,39.724,0,0.906
+REC-00415,2025-04-23,Renewable Utilities,Metro Transit Agency,10.058,13.165,0,0.894
+REC-00416,2025-04-01,Civil Infrastructure,Federal Department A,22.556,27.12,0,0.892
+REC-00417,2025-09-27,Civil Infrastructure,City Water Authority,69.886,82.54,0,0.917
+REC-00418,2025-06-15,Public Health Supplies,Metro Transit Agency,77.307,102.844,0,0.899
+REC-00419,2025-10-15,Renewable Utilities,City Water Authority,28.975,33.161,0,0.914
+REC-00420,2025-12-19,Public Health Supplies,State Highway Admin,71.951,95.291,0,0.923
+REC-00421,2025-10-18,Public Health Supplies,National Health Board,37.048,46.473,0,0.95
+REC-00422,2025-02-23,Public Health Supplies,City Water Authority,73.354,71.08,0,0.898
+REC-00423,2025-02-15,Municipal IT Services,Metro Transit Agency,10.969,10.474,0,0.919
+REC-00424,2025-02-25,Civil Infrastructure,Metro Transit Agency,47.249,50.076,0,0.926
+REC-00425,2025-07-13,Renewable Utilities,Metro Transit Agency,18.621,20.292,0,0.952
+REC-00426,2025-12-18,Public Health Supplies,Metro Transit Agency,16.265,20.703,0,0.915
+REC-00427,2025-02-23,Municipal IT Services,State Highway Admin,85.474,79.529,0,0.984
+REC-00428,2025-02-17,Renewable Utilities,National Health Board,85.924,103.302,0,0.952
+REC-00429,2025-11-07,Public Health Supplies,Federal Department A,18.607,17.728,0,0.957
+REC-00430,2025-10-04,Municipal IT Services,City Water Authority,30.192,26.412,0,0.972
+REC-00431,2025-03-20,Municipal IT Services,Federal Department A,46.347,46.221,0,0.946
+REC-00432,2025-04-13,Civil Infrastructure,State Highway Admin,24.521,24.421,0,0.973
+REC-00433,2025-06-07,Defense Logistics,Metro Transit Agency,86.065,84.559,0,0.923
+REC-00434,2025-07-09,Municipal IT Services,State Highway Admin,47.891,47.012,0,0.905
+REC-00435,2025-05-18,Civil Infrastructure,State Highway Admin,73.94,87.525,0,0.918
+REC-00436,2025-10-05,Renewable Utilities,State Highway Admin,57.056,72.484,0,0.926
+REC-00437,2025-10-02,Defense Logistics,National Health Board,84.941,92.427,0,0.979
+REC-00438,2025-01-18,Renewable Utilities,National Health Board,78.038,92.769,0,0.893
+REC-00439,2025-08-18,Public Health Supplies,State Highway Admin,78.719,71.878,0,0.989
+REC-00440,2025-08-11,Public Health Supplies,National Health Board,31.92,41.668,0,0.887
+REC-00441,2025-07-18,Defense Logistics,National Health Board,37.721,37.272,0,0.976
+REC-00442,2025-12-25,Renewable Utilities,National Health Board,76.443,69.277,0,0.942
+REC-00443,2025-10-26,Civil Infrastructure,National Health Board,76.261,94.783,0,0.977
+REC-00444,2025-07-30,Defense Logistics,Metro Transit Agency,58.622,63.694,0,0.924
+REC-00445,2025-11-13,Defense Logistics,Federal Department A,43.642,56.275,0,0.885
+REC-00446,2025-09-01,Municipal IT Services,Federal Department A,38.719,48.276,0,0.973
+REC-00447,2025-12-23,Civil Infrastructure,State Highway Admin,21.423,28.645,0,0.971
+REC-00448,2025-05-18,Renewable Utilities,Federal Department A,25.975,24.824,0,0.962
+REC-00449,2025-09-22,Civil Infrastructure,National Health Board,77.277,68.221,0,0.924
+REC-00450,2025-09-26,Civil Infrastructure,State Highway Admin,26.385,33.416,0,0.907
+REC-00451,2025-08-22,Municipal IT Services,State Highway Admin,33.288,42.001,0,0.95
+REC-00452,2025-03-05,Civil Infrastructure,State Highway Admin,41.66,47.785,0,0.976
+REC-00453,2025-10-28,Municipal IT Services,City Water Authority,23.899,31.003,0,0.956
+REC-00454,2025-05-26,Defense Logistics,Federal Department A,23.847,27.093,0,0.974
+REC-00455,2025-11-28,Public Health Supplies,City Water Authority,65.385,72.358,0,0.986
+REC-00456,2025-12-16,Defense Logistics,State Highway Admin,65.027,74.818,1,0.908
+REC-00457,2025-06-06,Municipal IT Services,Metro Transit Agency,86.116,109.866,0,0.904
+REC-00458,2025-06-04,Renewable Utilities,National Health Board,43.758,39.433,0,0.953
+REC-00459,2025-07-11,Renewable Utilities,National Health Board,34.028,40.568,0,0.917
+REC-00460,2025-05-22,Municipal IT Services,City Water Authority,32.197,38.815,0,0.913
+REC-00461,2025-03-18,Public Health Supplies,Federal Department A,78.462,98.17,0,0.953
+REC-00462,2025-12-15,Civil Infrastructure,Metro Transit Agency,94.785,92.862,1,0.923
+REC-00463,2025-01-19,Renewable Utilities,State Highway Admin,39.169,47.265,0,0.95
+REC-00464,2025-09-01,Municipal IT Services,National Health Board,35.517,33.208,0,0.941
+REC-00465,2025-05-31,Defense Logistics,State Highway Admin,72.978,88.493,0,0.98
+REC-00466,2025-12-15,Civil Infrastructure,State Highway Admin,40.199,49.127,0,0.967
+REC-00467,2025-06-19,Municipal IT Services,National Health Board,34.994,44.639,0,0.975
+REC-00468,2025-10-26,Renewable Utilities,Federal Department A,50.139,47.495,0,0.955
+REC-00469,2025-09-29,Defense Logistics,Federal Department A,84.022,77.753,0,0.918
+REC-00470,2025-10-19,Public Health Supplies,City Water Authority,83.303,78.32,0,0.917
+REC-00471,2025-04-01,Civil Infrastructure,Federal Department A,48.425,46.231,0,0.943
+REC-00472,2025-03-23,Civil Infrastructure,State Highway Admin,62.231,72.608,0,0.986
+REC-00473,2025-07-16,Civil Infrastructure,National Health Board,26.95,27.935,1,0.915
+REC-00474,2025-09-29,Civil Infrastructure,Federal Department A,63.268,61.649,0,0.918
+REC-00475,2025-03-08,Defense Logistics,National Health Board,60.037,56.045,0,0.913
+REC-00476,2025-05-29,Renewable Utilities,National Health Board,54.55,58.196,0,0.895
+REC-00477,2025-09-08,Public Health Supplies,State Highway Admin,90.587,118.588,1,0.905
+REC-00478,2025-03-09,Civil Infrastructure,National Health Board,52.894,48.217,0,0.967
+REC-00479,2025-07-12,Municipal IT Services,National Health Board,62.966,72.22,1,0.892
+REC-00480,2025-01-11,Civil Infrastructure,Metro Transit Agency,47.767,43.554,0,0.957
+REC-00481,2025-04-16,Civil Infrastructure,City Water Authority,45.774,41.219,0,0.949
+REC-00482,2025-12-25,Defense Logistics,Federal Department A,53.485,61.981,0,0.966
+REC-00483,2025-09-12,Renewable Utilities,State Highway Admin,76.127,96.358,0,0.919
+REC-00484,2025-07-29,Public Health Supplies,Federal Department A,56.592,73.863,0,0.933
+REC-00485,2025-05-01,Civil Infrastructure,Federal Department A,87.085,110.39,0,0.896
+REC-00486,2025-02-16,Civil Infrastructure,Federal Department A,86.906,101.868,0,0.988
+REC-00487,2025-05-16,Civil Infrastructure,Federal Department A,79.12,101.833,0,0.92
+REC-00488,2025-12-13,Defense Logistics,Federal Department A,18.075,22.216,1,0.974
+REC-00489,2025-12-06,Public Health Supplies,City Water Authority,40.39,43.171,0,0.977
+REC-00490,2025-02-17,Municipal IT Services,State Highway Admin,19.676,20.662,0,0.972
+REC-00491,2025-12-20,Defense Logistics,State Highway Admin,19.61,23.494,0,0.984
+REC-00492,2025-03-23,Defense Logistics,National Health Board,51.027,57.889,0,0.947
+REC-00493,2025-07-03,Civil Infrastructure,State Highway Admin,51.062,55.865,0,0.928
+REC-00494,2025-02-02,Municipal IT Services,Federal Department A,69.888,83.094,0,0.943
+REC-00495,2025-10-17,Municipal IT Services,National Health Board,54.464,65.373,0,0.953
+REC-00496,2025-05-08,Municipal IT Services,Metro Transit Agency,22.636,28.594,0,0.947
+REC-00497,2025-01-06,Public Health Supplies,National Health Board,82.152,104.821,0,0.888
+REC-00498,2025-09-09,Public Health Supplies,City Water Authority,92.462,80.92,1,0.951
+REC-00499,2025-07-26,Civil Infrastructure,Metro Transit Agency,47.756,54.276,0,0.935
+REC-00500,2025-06-11,Defense Logistics,Federal Department A,18.725,19.777,0,0.88
+REC-00501,2025-02-16,Renewable Utilities,City Water Authority,85.659,96.895,0,0.93
+REC-00502,2025-06-24,Civil Infrastructure,State Highway Admin,81.767,83.074,0,0.946
+REC-00503,2025-12-03,Defense Logistics,Federal Department A,18.282,21.563,1,0.919
+REC-00504,2025-11-21,Renewable Utilities,National Health Board,41.781,37.735,0,0.934
+REC-00505,2025-07-29,Municipal IT Services,National Health Board,26.653,24.264,0,0.904
+REC-00506,2025-04-08,Civil Infrastructure,Metro Transit Agency,13.953,16.278,0,0.894
+REC-00507,2025-08-19,Renewable Utilities,National Health Board,21.444,23.576,0,0.885
+REC-00508,2025-08-10,Defense Logistics,National Health Board,76.392,99.698,0,0.899
+REC-00509,2025-03-07,Defense Logistics,National Health Board,61.524,62.196,0,0.926
+REC-00510,2025-11-08,Public Health Supplies,City Water Authority,43.819,44.758,0,0.969
+REC-00511,2025-03-12,Renewable Utilities,National Health Board,35.408,42.516,0,0.958
+REC-00512,2025-10-11,Public Health Supplies,State Highway Admin,27.826,33.591,0,0.981
+REC-00513,2025-03-09,Public Health Supplies,National Health Board,56.112,65.563,0,0.964
+REC-00514,2025-10-15,Renewable Utilities,National Health Board,90.127,108.609,1,0.978
+REC-00515,2025-10-01,Defense Logistics,Federal Department A,54.432,46.955,0,0.954
+REC-00516,2025-04-13,Public Health Supplies,City Water Authority,68.088,62.86,0,0.966
+REC-00517,2025-04-15,Civil Infrastructure,City Water Authority,79.192,71.371,0,0.961
+REC-00518,2025-04-25,Renewable Utilities,Metro Transit Agency,30.196,37.508,0,0.912
+REC-00519,2025-12-07,Defense Logistics,Metro Transit Agency,45.408,56.49,0,0.986
+REC-00520,2025-01-28,Municipal IT Services,State Highway Admin,62.748,77.837,0,0.971
+REC-00521,2025-11-21,Municipal IT Services,National Health Board,56.462,65.027,0,0.986
+REC-00522,2025-05-31,Public Health Supplies,Federal Department A,25.893,24.259,0,0.921
+REC-00523,2025-08-08,Renewable Utilities,City Water Authority,21.056,24.046,0,0.916
+REC-00524,2025-03-21,Public Health Supplies,City Water Authority,60.735,75.119,0,0.973
+REC-00525,2025-06-04,Renewable Utilities,National Health Board,40.437,50.223,0,0.904
+REC-00526,2025-04-05,Civil Infrastructure,National Health Board,23.546,26.408,0,0.918
+REC-00527,2025-04-20,Municipal IT Services,City Water Authority,40.668,39.01,0,0.938
+REC-00528,2025-10-15,Civil Infrastructure,Federal Department A,66.86,71.73,0,0.948
+REC-00529,2025-11-15,Civil Infrastructure,City Water Authority,42.417,52.941,0,0.908
+REC-00530,2025-05-25,Renewable Utilities,City Water Authority,53.716,59.322,0,0.913
+REC-00531,2025-11-30,Municipal IT Services,National Health Board,16.999,15.265,0,0.965
+REC-00532,2025-10-01,Civil Infrastructure,State Highway Admin,66.978,82.838,0,0.927
+REC-00533,2025-02-23,Renewable Utilities,Metro Transit Agency,64.958,85.736,0,0.897
+REC-00534,2025-08-24,Civil Infrastructure,Federal Department A,16.226,15.236,0,0.888
+REC-00535,2025-04-27,Defense Logistics,Metro Transit Agency,48.346,50.871,0,0.923
+REC-00536,2025-03-02,Civil Infrastructure,National Health Board,15.375,18.803,1,0.973
+REC-00537,2025-07-03,Civil Infrastructure,City Water Authority,76.886,76.938,0,0.964
+REC-00538,2025-08-13,Defense Logistics,Federal Department A,50.289,56.159,0,0.923
+REC-00539,2025-10-07,Public Health Supplies,City Water Authority,67.57,88.32,0,0.96
+REC-00540,2025-07-11,Renewable Utilities,National Health Board,22.017,19.174,0,0.923
+REC-00541,2025-10-08,Municipal IT Services,State Highway Admin,73.605,95.817,0,0.925
+REC-00542,2025-11-27,Public Health Supplies,State Highway Admin,25.639,29.701,0,0.893
+REC-00543,2025-12-10,Civil Infrastructure,National Health Board,49.208,55.351,0,0.887
+REC-00544,2025-02-20,Renewable Utilities,Metro Transit Agency,90.881,93.477,1,0.906
+REC-00545,2025-05-26,Civil Infrastructure,State Highway Admin,37.012,39.8,0,0.914
+REC-00546,2025-10-27,Renewable Utilities,National Health Board,40.982,41.317,0,0.881
+REC-00547,2025-05-07,Defense Logistics,City Water Authority,81.409,74.665,0,0.977
+REC-00548,2025-08-25,Municipal IT Services,City Water Authority,51.393,46.481,0,0.889
+REC-00549,2025-05-24,Renewable Utilities,State Highway Admin,32.375,41.866,0,0.888
+REC-00550,2025-01-10,Civil Infrastructure,National Health Board,59.207,73.097,0,0.884
+REC-00551,2025-05-14,Renewable Utilities,Metro Transit Agency,65.582,60.619,0,0.978
+REC-00552,2025-10-29,Public Health Supplies,Metro Transit Agency,52.595,47.087,0,0.881
+REC-00553,2025-05-03,Public Health Supplies,National Health Board,21.932,20.388,0,0.942
+REC-00554,2025-03-16,Municipal IT Services,Federal Department A,28.6,31.283,0,0.921
+REC-00555,2025-01-22,Public Health Supplies,National Health Board,87.157,89.826,0,0.93
+REC-00556,2025-01-24,Municipal IT Services,Federal Department A,69.818,77.546,0,0.972
+REC-00557,2025-05-15,Renewable Utilities,National Health Board,24.777,29.159,0,0.952
+REC-00558,2025-02-09,Municipal IT Services,Metro Transit Agency,92.677,89.104,1,0.97
+REC-00559,2025-06-26,Defense Logistics,National Health Board,10.561,13.634,0,0.905
+REC-00560,2025-09-21,Municipal IT Services,State Highway Admin,22.77,21.146,0,0.97
+REC-00561,2025-12-05,Defense Logistics,City Water Authority,71.222,77.686,0,0.903
+REC-00562,2025-03-24,Defense Logistics,Federal Department A,30.712,28.069,0,0.895
+REC-00563,2025-09-20,Renewable Utilities,State Highway Admin,14.753,14.445,0,0.985
+REC-00564,2025-11-03,Civil Infrastructure,City Water Authority,90.517,86.742,1,0.932
+REC-00565,2025-09-04,Public Health Supplies,Metro Transit Agency,61.071,76.174,0,0.9
+REC-00566,2025-12-04,Municipal IT Services,State Highway Admin,71.556,73.083,0,0.945
+REC-00567,2025-04-28,Defense Logistics,State Highway Admin,19.228,18.289,0,0.935
+REC-00568,2025-08-03,Renewable Utilities,Federal Department A,25.081,32.625,0,0.977
+REC-00569,2025-09-30,Civil Infrastructure,Federal Department A,50.99,46.664,0,0.971
+REC-00570,2025-12-14,Defense Logistics,National Health Board,45.758,58.909,0,0.927
+REC-00571,2025-09-04,Municipal IT Services,National Health Board,78.393,102.219,0,0.943
+REC-00572,2025-08-06,Municipal IT Services,Metro Transit Agency,75.098,98.006,0,0.946
+REC-00573,2025-10-06,Municipal IT Services,State Highway Admin,10.465,12.786,1,0.937
+REC-00574,2025-09-24,Defense Logistics,State Highway Admin,68.46,69.004,0,0.897
+REC-00575,2025-11-30,Municipal IT Services,City Water Authority,82.673,87.781,0,0.91
+REC-00576,2025-12-15,Public Health Supplies,Metro Transit Agency,56.929,64.26,0,0.942
+REC-00577,2025-09-05,Municipal IT Services,National Health Board,39.27,47.232,0,0.974
+REC-00578,2025-12-04,Public Health Supplies,Metro Transit Agency,76.564,101.418,0,0.936
+REC-00579,2025-06-23,Renewable Utilities,Federal Department A,23.663,31.526,1,0.89
+REC-00580,2025-03-16,Renewable Utilities,Metro Transit Agency,17.492,17.169,0,0.947
+REC-00581,2025-07-16,Renewable Utilities,National Health Board,34.35,45.746,0,0.965
+REC-00582,2025-03-31,Defense Logistics,Metro Transit Agency,10.91,13.913,0,0.937
+REC-00583,2025-04-10,Renewable Utilities,National Health Board,53.844,52.004,0,0.884
+REC-00584,2025-05-03,Civil Infrastructure,State Highway Admin,17.382,17.173,0,0.954
+REC-00585,2025-07-27,Public Health Supplies,National Health Board,11.306,13.588,0,0.94
+REC-00586,2025-10-14,Municipal IT Services,City Water Authority,91.879,90.8,1,0.901
+REC-00587,2025-07-26,Civil Infrastructure,City Water Authority,24.878,27.443,0,0.935
+REC-00588,2025-06-24,Renewable Utilities,City Water Authority,84.47,106.143,0,0.956
+REC-00589,2025-07-13,Defense Logistics,State Highway Admin,74.385,98.978,0,0.931
+REC-00590,2025-10-28,Defense Logistics,Federal Department A,31.915,33.234,0,0.904
+REC-00591,2025-12-26,Municipal IT Services,Metro Transit Agency,91.213,101.087,1,0.972
+REC-00592,2025-05-08,Civil Infrastructure,Metro Transit Agency,67.264,84.789,0,0.982
+REC-00593,2025-09-01,Municipal IT Services,State Highway Admin,86.017,84.687,0,0.955
+REC-00594,2025-04-08,Public Health Supplies,State Highway Admin,72.511,93.276,0,0.902
+REC-00595,2025-05-08,Municipal IT Services,State Highway Admin,76.21,69.346,0,0.985
+REC-00596,2025-09-10,Civil Infrastructure,National Health Board,91.429,116.481,1,0.915
+REC-00597,2025-10-22,Defense Logistics,State Highway Admin,93.674,122.526,1,0.904
+REC-00598,2025-10-23,Civil Infrastructure,National Health Board,77.938,84.887,0,0.935
+REC-00599,2025-07-21,Public Health Supplies,Metro Transit Agency,93.003,111.522,1,0.956
+REC-00600,2025-01-07,Public Health Supplies,Metro Transit Agency,59.386,60.141,0,0.909
+REC-00601,2025-10-08,Public Health Supplies,City Water Authority,50.064,57.901,0,0.935
+REC-00602,2025-04-18,Municipal IT Services,City Water Authority,82.618,81.777,0,0.894
+REC-00603,2025-10-22,Public Health Supplies,Federal Department A,71.269,89.232,0,0.974
+REC-00604,2025-04-11,Public Health Supplies,Metro Transit Agency,78.482,73.64,0,0.99
+REC-00605,2025-11-19,Renewable Utilities,City Water Authority,76.753,76.754,0,0.942
+REC-00606,2025-07-23,Public Health Supplies,Federal Department A,28.315,27.668,0,0.891
+REC-00607,2025-06-21,Municipal IT Services,City Water Authority,57.63,75.837,0,0.882
+REC-00608,2025-03-04,Renewable Utilities,State Highway Admin,59.033,69.36,0,0.988
+REC-00609,2025-05-26,Municipal IT Services,National Health Board,51.437,62.664,0,0.922
+REC-00610,2025-05-27,Public Health Supplies,State Highway Admin,64.449,84.704,0,0.947
+REC-00611,2025-07-27,Civil Infrastructure,State Highway Admin,39.208,39.472,0,0.958
+REC-00612,2025-11-06,Defense Logistics,City Water Authority,85.454,106.005,0,0.962
+REC-00613,2025-09-24,Defense Logistics,State Highway Admin,25.63,22.082,0,0.953
+REC-00614,2025-12-25,Public Health Supplies,State Highway Admin,43.749,39.277,0,0.932
+REC-00615,2025-01-28,Defense Logistics,National Health Board,75.025,66.894,0,0.897
+REC-00616,2025-12-02,Municipal IT Services,State Highway Admin,31.029,30.783,0,0.894
+REC-00617,2025-03-29,Civil Infrastructure,City Water Authority,83.131,84.179,0,0.987
+REC-00618,2025-10-04,Renewable Utilities,Metro Transit Agency,21.485,28.451,0,0.945
+REC-00619,2025-08-22,Renewable Utilities,Metro Transit Agency,54.494,63.745,0,0.918
+REC-00620,2025-10-04,Civil Infrastructure,Metro Transit Agency,36.169,38.198,0,0.881
+REC-00621,2025-09-25,Municipal IT Services,City Water Authority,49.882,42.607,0,0.984
+REC-00622,2025-09-02,Civil Infrastructure,Metro Transit Agency,77.827,89.384,0,0.94
+REC-00623,2025-04-07,Renewable Utilities,Metro Transit Agency,43.554,40.576,0,0.923
+REC-00624,2025-07-13,Municipal IT Services,Federal Department A,45.89,44.503,0,0.98
+REC-00625,2025-12-22,Municipal IT Services,City Water Authority,65.119,72.671,0,0.901
+REC-00626,2025-02-05,Public Health Supplies,City Water Authority,19.38,20.885,0,0.957
+REC-00627,2025-09-09,Municipal IT Services,Federal Department A,22.933,30.612,1,0.987
+REC-00628,2025-05-25,Public Health Supplies,Metro Transit Agency,71.804,69.392,0,0.934
+REC-00629,2025-06-25,Municipal IT Services,Metro Transit Agency,94.827,102.588,1,0.916
+REC-00630,2025-03-16,Municipal IT Services,Metro Transit Agency,16.068,17.435,0,0.973
+REC-00631,2025-07-15,Civil Infrastructure,State Highway Admin,42.708,57.121,0,0.989
+REC-00632,2025-04-12,Civil Infrastructure,National Health Board,66.611,63.562,0,0.986
+REC-00633,2025-06-15,Civil Infrastructure,National Health Board,54.279,53.012,0,0.902
+REC-00634,2025-01-27,Public Health Supplies,Federal Department A,30.057,32.073,1,0.967
+REC-00635,2025-10-27,Defense Logistics,State Highway Admin,10.759,9.371,0,0.932
+REC-00636,2025-11-02,Municipal IT Services,Federal Department A,31.141,34.254,0,0.917
+REC-00637,2025-11-17,Civil Infrastructure,City Water Authority,64.789,77.79,0,0.894
+REC-00638,2025-04-30,Renewable Utilities,City Water Authority,78.47,83.913,0,0.956
+REC-00639,2025-07-03,Municipal IT Services,Federal Department A,51.251,54.775,0,0.957
+REC-00640,2025-04-08,Public Health Supplies,National Health Board,39.551,48.102,0,0.971
+REC-00641,2025-10-11,Civil Infrastructure,National Health Board,23.177,23.127,0,0.92
+REC-00642,2025-01-01,Renewable Utilities,Metro Transit Agency,72.361,93.452,0,0.92
+REC-00643,2025-11-14,Municipal IT Services,Federal Department A,65.955,73.835,0,0.938
+REC-00644,2025-09-12,Public Health Supplies,National Health Board,34.066,35.936,0,0.891
+REC-00645,2025-12-04,Civil Infrastructure,State Highway Admin,25.184,21.8,0,0.901
+REC-00646,2025-01-17,Defense Logistics,Metro Transit Agency,54.695,65.67,0,0.92
+REC-00647,2025-11-07,Civil Infrastructure,State Highway Admin,65.739,86.394,0,0.931
+REC-00648,2025-11-24,Municipal IT Services,National Health Board,73.196,94.805,0,0.967
+REC-00649,2025-01-30,Municipal IT Services,National Health Board,13.456,11.911,0,0.984
+REC-00650,2025-09-23,Civil Infrastructure,State Highway Admin,55.191,52.141,0,0.907
+REC-00651,2025-11-17,Renewable Utilities,National Health Board,45.291,40.887,0,0.919
+REC-00652,2025-08-23,Defense Logistics,Federal Department A,24.179,22.733,0,0.917
+REC-00653,2025-03-22,Renewable Utilities,Metro Transit Agency,89.349,116.265,0,0.99
+REC-00654,2025-07-10,Defense Logistics,City Water Authority,61.715,69.835,0,0.964
+REC-00655,2025-05-11,Defense Logistics,Metro Transit Agency,91.585,77.856,1,0.911
+REC-00656,2025-01-09,Public Health Supplies,City Water Authority,10.558,14.171,0,0.915
+REC-00657,2025-12-20,Renewable Utilities,National Health Board,57.287,75.216,0,0.884
+REC-00658,2025-07-02,Public Health Supplies,City Water Authority,41.202,47.015,0,0.969
+REC-00659,2025-02-17,Defense Logistics,National Health Board,88.02,107.132,0,0.967
+REC-00660,2025-03-30,Renewable Utilities,Federal Department A,60.595,60.607,0,0.943
+REC-00661,2025-02-10,Municipal IT Services,City Water Authority,84.782,90.475,0,0.893
+REC-00662,2025-04-27,Renewable Utilities,Federal Department A,63.88,74.49,0,0.938
+REC-00663,2025-06-13,Renewable Utilities,State Highway Admin,37.781,45.295,0,0.954
+REC-00664,2025-07-21,Renewable Utilities,National Health Board,52.902,50.841,0,0.923
+REC-00665,2025-03-09,Civil Infrastructure,Metro Transit Agency,58.572,51.23,0,0.889
+REC-00666,2025-09-14,Public Health Supplies,State Highway Admin,50.878,48.286,0,0.943
+REC-00667,2025-10-15,Renewable Utilities,State Highway Admin,30.597,30.081,0,0.955
+REC-00668,2025-10-22,Civil Infrastructure,Metro Transit Agency,46.001,47.112,0,0.945
+REC-00669,2025-01-13,Public Health Supplies,City Water Authority,62.379,83.905,0,0.896
+REC-00670,2025-01-23,Public Health Supplies,City Water Authority,23.259,28.242,0,0.961
+REC-00671,2025-05-05,Public Health Supplies,City Water Authority,11.167,13.366,0,0.93
+REC-00672,2025-01-12,Public Health Supplies,National Health Board,28.009,31.46,0,0.94
+REC-00673,2025-11-15,Civil Infrastructure,Metro Transit Agency,59.555,70.38,1,0.899
+REC-00674,2025-05-26,Renewable Utilities,City Water Authority,14.512,17.086,1,0.923
+REC-00675,2025-05-19,Municipal IT Services,Federal Department A,11.622,14.919,0,0.905
+REC-00676,2025-07-14,Civil Infrastructure,City Water Authority,51.196,58.801,0,0.902
+REC-00677,2025-08-23,Civil Infrastructure,Federal Department A,31.028,34.587,0,0.923
+REC-00678,2025-03-22,Municipal IT Services,City Water Authority,40.207,40.254,0,0.988
+REC-00679,2025-05-22,Municipal IT Services,Metro Transit Agency,85.684,107.742,1,0.941
+REC-00680,2025-05-24,Public Health Supplies,City Water Authority,86.26,101.654,0,0.922
+REC-00681,2025-12-14,Public Health Supplies,Metro Transit Agency,30.431,28.191,0,0.98
+REC-00682,2025-06-18,Renewable Utilities,State Highway Admin,27.574,25.348,0,0.968
+REC-00683,2025-03-12,Renewable Utilities,State Highway Admin,46.555,60.731,0,0.952
+REC-00684,2025-10-17,Municipal IT Services,Federal Department A,57.374,75.98,0,0.915
+REC-00685,2025-03-16,Municipal IT Services,Metro Transit Agency,91.702,91.856,1,0.97
+REC-00686,2025-11-23,Public Health Supplies,State Highway Admin,19.076,17.977,0,0.947
+REC-00687,2025-05-17,Renewable Utilities,National Health Board,29.627,28.622,0,0.92
+REC-00688,2025-12-19,Public Health Supplies,National Health Board,81.922,88.835,0,0.9
+REC-00689,2025-07-18,Defense Logistics,State Highway Admin,23.922,23.04,0,0.987
+REC-00690,2025-05-19,Public Health Supplies,State Highway Admin,74.411,65.71,0,0.988
+REC-00691,2025-11-12,Municipal IT Services,Metro Transit Agency,85.445,90.894,0,0.947
+REC-00692,2025-07-14,Defense Logistics,National Health Board,89.827,102.041,0,0.951
+REC-00693,2025-12-27,Renewable Utilities,Federal Department A,48.387,61.137,1,0.99
+REC-00694,2025-09-23,Defense Logistics,Federal Department A,57.405,63.608,0,0.885
+REC-00695,2025-05-30,Defense Logistics,City Water Authority,75.763,75.229,0,0.912
+REC-00696,2025-01-28,Renewable Utilities,State Highway Admin,49.404,57.953,0,0.935
+REC-00697,2025-04-03,Renewable Utilities,State Highway Admin,43.411,43.92,1,0.93
+REC-00698,2025-04-14,Civil Infrastructure,City Water Authority,37.546,44.09,0,0.898
+REC-00699,2025-03-05,Civil Infrastructure,Metro Transit Agency,63.896,57.037,0,0.96
+REC-00700,2025-09-19,Public Health Supplies,Metro Transit Agency,56.779,49.509,0,0.917
+REC-00701,2025-12-04,Public Health Supplies,State Highway Admin,25.204,30.397,0,0.914
+REC-00702,2025-08-17,Public Health Supplies,Federal Department A,86.376,114.899,1,0.964
+REC-00703,2025-01-07,Defense Logistics,Metro Transit Agency,56.198,47.93,0,0.906
+REC-00704,2025-10-29,Defense Logistics,Metro Transit Agency,44.863,39.915,0,0.907
+REC-00705,2025-10-08,Renewable Utilities,National Health Board,79.71,76.029,0,0.886
+REC-00706,2025-06-28,Public Health Supplies,Federal Department A,66.695,84.636,0,0.981
+REC-00707,2025-01-26,Defense Logistics,State Highway Admin,23.713,23.528,0,0.957
+REC-00708,2025-10-21,Public Health Supplies,Metro Transit Agency,73.693,75.911,1,0.965
+REC-00709,2025-06-15,Defense Logistics,Federal Department A,74.468,94.698,0,0.932
+REC-00710,2025-03-04,Municipal IT Services,City Water Authority,54.799,60.954,0,0.947
+REC-00711,2025-02-25,Renewable Utilities,Federal Department A,51.111,61.043,0,0.988
+REC-00712,2025-05-28,Renewable Utilities,City Water Authority,32.071,36.483,0,0.982
+REC-00713,2025-11-11,Defense Logistics,National Health Board,71.981,79.098,0,0.977
+REC-00714,2025-04-30,Public Health Supplies,Federal Department A,20.048,21.701,0,0.961
+REC-00715,2025-04-17,Defense Logistics,Metro Transit Agency,13.867,14.211,0,0.903
+REC-00716,2025-11-24,Municipal IT Services,City Water Authority,77.167,77.467,0,0.916
+REC-00717,2025-01-04,Municipal IT Services,City Water Authority,43.664,49.535,0,0.972
+REC-00718,2025-04-10,Municipal IT Services,Metro Transit Agency,87.874,109.722,0,0.933
+REC-00719,2025-11-18,Renewable Utilities,City Water Authority,49.31,61.987,0,0.886
+REC-00720,2025-09-24,Renewable Utilities,City Water Authority,57.19,49.147,0,0.916
+REC-00721,2025-07-01,Public Health Supplies,City Water Authority,81.463,83.058,0,0.939
+REC-00722,2025-03-26,Renewable Utilities,Metro Transit Agency,25.927,23.553,0,0.914
+REC-00723,2025-06-11,Municipal IT Services,Metro Transit Agency,17.378,22.392,0,0.971
+REC-00724,2025-06-04,Renewable Utilities,City Water Authority,24.876,25.799,1,0.902
+REC-00725,2025-02-17,Renewable Utilities,Federal Department A,77.917,101.485,0,0.917
+REC-00726,2025-09-05,Municipal IT Services,City Water Authority,22.18,28.521,0,0.983
+REC-00727,2025-12-13,Public Health Supplies,Federal Department A,49.046,59.191,0,0.88
+REC-00728,2025-01-23,Renewable Utilities,Federal Department A,38.33,49.622,0,0.964
+REC-00729,2025-06-09,Renewable Utilities,City Water Authority,64.302,61.403,0,0.912
+REC-00730,2025-09-30,Defense Logistics,Federal Department A,33.176,30.812,0,0.985
+REC-00731,2025-10-14,Civil Infrastructure,State Highway Admin,56.115,63.112,0,0.984
+REC-00732,2025-05-26,Public Health Supplies,State Highway Admin,16.056,18.571,0,0.929
+REC-00733,2025-03-08,Defense Logistics,Federal Department A,19.004,16.665,0,0.9
+REC-00734,2025-11-02,Defense Logistics,National Health Board,40.228,40.878,0,0.963
+REC-00735,2025-10-01,Defense Logistics,National Health Board,21.203,26.64,0,0.932
+REC-00736,2025-08-22,Defense Logistics,Metro Transit Agency,29.694,28.563,0,0.948
+REC-00737,2025-07-06,Public Health Supplies,City Water Authority,77.046,99.482,0,0.883
+REC-00738,2025-09-01,Municipal IT Services,Metro Transit Agency,49.206,46.027,0,0.946
+REC-00739,2025-03-07,Civil Infrastructure,Metro Transit Agency,79.492,99.236,0,0.951
+REC-00740,2025-06-04,Defense Logistics,Metro Transit Agency,60.196,58.347,0,0.897
+REC-00741,2025-09-04,Civil Infrastructure,City Water Authority,27.7,33.158,0,0.988
+REC-00742,2025-10-18,Renewable Utilities,State Highway Admin,24.712,29.279,0,0.958
+REC-00743,2025-09-07,Renewable Utilities,National Health Board,49.347,55.641,0,0.899
+REC-00744,2025-07-27,Renewable Utilities,Federal Department A,68.268,78.386,0,0.916
+REC-00745,2025-11-27,Civil Infrastructure,Federal Department A,28.497,26.202,0,0.963
+REC-00746,2025-01-01,Public Health Supplies,Metro Transit Agency,55.157,57.639,0,0.902
+REC-00747,2025-12-15,Municipal IT Services,National Health Board,77.519,92.231,0,0.983
+REC-00748,2025-06-26,Renewable Utilities,Federal Department A,61.977,68.498,0,0.974
+REC-00749,2025-02-01,Renewable Utilities,Federal Department A,10.072,11.382,0,0.892
+REC-00750,2025-05-25,Public Health Supplies,Metro Transit Agency,69.689,72.974,0,0.922
+REC-00751,2025-07-15,Renewable Utilities,State Highway Admin,66.311,72.109,0,0.922
+REC-00752,2025-07-04,Public Health Supplies,City Water Authority,94.784,112.322,1,0.888
+REC-00753,2025-01-09,Defense Logistics,Metro Transit Agency,92.873,85.247,1,0.969
+REC-00754,2025-08-22,Renewable Utilities,Metro Transit Agency,62.976,67.838,0,0.97
+REC-00755,2025-07-16,Public Health Supplies,State Highway Admin,46.106,39.361,0,0.96
+REC-00756,2025-09-14,Defense Logistics,National Health Board,58.99,51.128,1,0.933
+REC-00757,2025-07-08,Renewable Utilities,Metro Transit Agency,91.748,81.659,1,0.938
+REC-00758,2025-05-24,Renewable Utilities,Federal Department A,54.485,62.932,0,0.949
+REC-00759,2025-12-06,Civil Infrastructure,National Health Board,77.838,78.324,0,0.918
+REC-00760,2025-01-06,Defense Logistics,National Health Board,87.015,98.935,0,0.919
+REC-00761,2025-05-31,Public Health Supplies,Federal Department A,69.079,79.359,0,0.966
+REC-00762,2025-05-14,Defense Logistics,National Health Board,24.372,21.345,0,0.969
+REC-00763,2025-11-16,Municipal IT Services,Metro Transit Agency,17.013,18.762,0,0.911
+REC-00764,2025-03-09,Municipal IT Services,City Water Authority,82.918,71.069,0,0.899
+REC-00765,2025-10-30,Defense Logistics,City Water Authority,78.666,77.142,0,0.933
+REC-00766,2025-09-28,Municipal IT Services,Federal Department A,92.224,105.852,1,0.972
+REC-00767,2025-07-31,Public Health Supplies,Metro Transit Agency,71.71,66.951,0,0.973
+REC-00768,2025-01-28,Municipal IT Services,Federal Department A,14.464,15.65,0,0.932
+REC-00769,2025-09-30,Defense Logistics,Metro Transit Agency,50.34,46.442,0,0.881
+REC-00770,2025-08-18,Municipal IT Services,National Health Board,68.044,59.233,0,0.95
+REC-00771,2025-08-10,Municipal IT Services,City Water Authority,32.978,41.261,0,0.944
+REC-00772,2025-08-25,Public Health Supplies,National Health Board,75.492,83.794,0,0.989
+REC-00773,2025-06-10,Civil Infrastructure,Federal Department A,80.694,69.073,0,0.891
+REC-00774,2025-08-17,Public Health Supplies,City Water Authority,31.411,27.234,0,0.886
+REC-00775,2025-11-01,Public Health Supplies,National Health Board,64.237,77.344,0,0.974
+REC-00776,2025-03-08,Renewable Utilities,State Highway Admin,86.16,103.205,0,0.931
+REC-00777,2025-02-08,Defense Logistics,City Water Authority,75.396,90.182,0,0.965
+REC-00778,2025-05-12,Civil Infrastructure,City Water Authority,76.054,79.203,0,0.887
+REC-00779,2025-05-16,Defense Logistics,Federal Department A,51.796,68.075,0,0.9
+REC-00780,2025-09-09,Public Health Supplies,National Health Board,75.34,72.266,0,0.98
+REC-00781,2025-05-13,Civil Infrastructure,Federal Department A,15.985,19.402,0,0.882
+REC-00782,2025-09-12,Civil Infrastructure,Federal Department A,66.491,65.375,0,0.98
+REC-00783,2025-10-22,Renewable Utilities,Metro Transit Agency,50.642,53.273,0,0.969
+REC-00784,2025-02-05,Public Health Supplies,Federal Department A,42.676,50.982,0,0.893
+REC-00785,2025-10-02,Municipal IT Services,City Water Authority,44.052,51.371,0,0.89
+REC-00786,2025-10-01,Civil Infrastructure,Metro Transit Agency,74.639,74.264,0,0.941
+REC-00787,2025-07-16,Public Health Supplies,City Water Authority,69.15,89.773,0,0.92
+REC-00788,2025-02-13,Defense Logistics,State Highway Admin,21.895,20.725,0,0.945
+REC-00789,2025-09-08,Civil Infrastructure,National Health Board,64.69,71.149,0,0.969
+REC-00790,2025-01-09,Municipal IT Services,Federal Department A,38.706,46.854,0,0.903
+REC-00791,2025-12-01,Renewable Utilities,Metro Transit Agency,89.908,115.541,0,0.962
+REC-00792,2025-04-30,Civil Infrastructure,State Highway Admin,51.556,44.314,0,0.948
+REC-00793,2025-05-05,Public Health Supplies,Federal Department A,24.641,21.56,0,0.967
+REC-00794,2025-08-22,Public Health Supplies,National Health Board,15.436,19.43,0,0.945
+REC-00795,2025-11-12,Civil Infrastructure,State Highway Admin,46.228,58.051,0,0.955
+REC-00796,2025-06-16,Renewable Utilities,National Health Board,21.673,27.486,0,0.964
+REC-00797,2025-10-31,Municipal IT Services,Federal Department A,20.263,18.654,0,0.957
+REC-00798,2025-10-11,Defense Logistics,State Highway Admin,88.682,77.184,0,0.973
+REC-00799,2025-11-10,Public Health Supplies,Federal Department A,84.768,75.474,1,0.982
+REC-00800,2025-11-30,Municipal IT Services,Metro Transit Agency,68.948,85.918,0,0.894
+REC-00801,2025-03-15,Municipal IT Services,National Health Board,48.286,46.819,0,0.956
+REC-00802,2025-11-02,Defense Logistics,National Health Board,90.775,105.625,1,0.918
+REC-00803,2025-01-03,Public Health Supplies,State Highway Admin,19.988,22.289,0,0.92
+REC-00804,2025-10-04,Public Health Supplies,Metro Transit Agency,75.478,89.039,0,0.901
+REC-00805,2025-03-18,Defense Logistics,Metro Transit Agency,24.988,29.613,1,0.951
+REC-00806,2025-05-26,Defense Logistics,City Water Authority,38.415,48.118,0,0.885
+REC-00807,2025-01-27,Public Health Supplies,State Highway Admin,76.767,83.87,0,0.978
+REC-00808,2025-08-16,Renewable Utilities,City Water Authority,45.621,55.819,0,0.905
+REC-00809,2025-02-26,Public Health Supplies,Federal Department A,30.155,31.853,0,0.978
+REC-00810,2025-02-07,Renewable Utilities,Metro Transit Agency,14.619,15.612,0,0.947
+REC-00811,2025-04-02,Municipal IT Services,State Highway Admin,48.908,46.32,0,0.91
+REC-00812,2025-06-21,Civil Infrastructure,National Health Board,15.07,13.838,0,0.93
+REC-00813,2025-03-29,Public Health Supplies,City Water Authority,61.309,76.316,0,0.947
+REC-00814,2025-03-29,Renewable Utilities,State Highway Admin,17.35,22.182,0,0.99
+REC-00815,2025-10-30,Defense Logistics,City Water Authority,11.233,11.953,0,0.907
+REC-00816,2025-08-11,Public Health Supplies,National Health Board,90.431,118.182,1,0.926
+REC-00817,2025-01-23,Defense Logistics,National Health Board,12.858,14.344,0,0.968
+REC-00818,2025-02-20,Defense Logistics,State Highway Admin,17.063,20.928,0,0.925
+REC-00819,2025-04-22,Municipal IT Services,City Water Authority,30.32,40.916,1,0.954
+REC-00820,2025-03-24,Renewable Utilities,National Health Board,12.075,13.01,0,0.976
+REC-00821,2025-07-27,Municipal IT Services,Metro Transit Agency,69.832,59.405,0,0.922
+REC-00822,2025-12-20,Renewable Utilities,Federal Department A,35.21,43.183,0,0.947
+REC-00823,2025-10-22,Civil Infrastructure,National Health Board,84.872,103.364,0,0.984
+REC-00824,2025-12-12,Civil Infrastructure,Federal Department A,42.551,46.069,1,0.92
+REC-00825,2025-11-28,Civil Infrastructure,National Health Board,70.294,66.945,0,0.906
+REC-00826,2025-02-28,Defense Logistics,National Health Board,84.046,100.975,0,0.964
+REC-00827,2025-06-14,Municipal IT Services,National Health Board,67.819,67.044,0,0.918
+REC-00828,2025-09-06,Renewable Utilities,Federal Department A,49.964,55.757,0,0.979
+REC-00829,2025-08-20,Municipal IT Services,Federal Department A,26.01,33.605,0,0.923
+REC-00830,2025-04-02,Civil Infrastructure,Federal Department A,24.005,21.749,0,0.897
+REC-00831,2025-04-15,Civil Infrastructure,City Water Authority,45.406,54.088,0,0.932
+REC-00832,2025-08-04,Civil Infrastructure,City Water Authority,26.07,22.447,0,0.972
+REC-00833,2025-09-24,Municipal IT Services,Metro Transit Agency,59.19,69.719,0,0.933
+REC-00834,2025-12-07,Renewable Utilities,National Health Board,47.847,47.945,0,0.967
+REC-00835,2025-03-29,Public Health Supplies,Metro Transit Agency,41.612,41.365,0,0.896
+REC-00836,2025-05-26,Public Health Supplies,National Health Board,88.551,106.784,0,0.987
+REC-00837,2025-12-21,Public Health Supplies,State Highway Admin,30.222,26.311,0,0.894
+REC-00838,2025-05-14,Public Health Supplies,State Highway Admin,57.811,50.142,0,0.918
+REC-00839,2025-07-10,Renewable Utilities,State Highway Admin,55.36,50.419,1,0.982
+REC-00840,2025-03-16,Municipal IT Services,State Highway Admin,10.365,12.638,0,0.916
+REC-00841,2025-06-01,Municipal IT Services,National Health Board,66.685,83.342,0,0.981
+REC-00842,2025-06-23,Civil Infrastructure,Metro Transit Agency,86.515,79.569,0,0.914
+REC-00843,2025-07-25,Public Health Supplies,Metro Transit Agency,40.378,40.91,0,0.901
+REC-00844,2025-09-27,Municipal IT Services,State Highway Admin,11.917,13.338,0,0.954
+REC-00845,2025-02-14,Defense Logistics,State Highway Admin,51.69,59.525,0,0.886
+REC-00846,2025-12-08,Defense Logistics,State Highway Admin,70.857,75.379,0,0.881
+REC-00847,2025-06-26,Municipal IT Services,Metro Transit Agency,84.316,75.362,0,0.929
+REC-00848,2025-08-01,Municipal IT Services,State Highway Admin,78.482,104.788,0,0.979
+REC-00849,2025-03-13,Renewable Utilities,Federal Department A,22.209,22.245,0,0.938
+REC-00850,2025-06-21,Renewable Utilities,Metro Transit Agency,17.518,18.477,0,0.926
+REC-00851,2025-10-12,Renewable Utilities,State Highway Admin,26.937,34.106,0,0.934
+REC-00852,2025-06-04,Municipal IT Services,Metro Transit Agency,57.539,62.241,1,0.88
+REC-00853,2025-05-15,Defense Logistics,Federal Department A,65.574,85.006,0,0.934
+REC-00854,2025-12-19,Public Health Supplies,Federal Department A,20.145,19.916,0,0.887
+REC-00855,2025-07-05,Defense Logistics,National Health Board,47.066,46.076,0,0.987
+REC-00856,2025-03-03,Renewable Utilities,National Health Board,11.491,11.259,0,0.896
+REC-00857,2025-08-25,Public Health Supplies,City Water Authority,23.881,23.555,0,0.98
+REC-00858,2025-07-02,Municipal IT Services,City Water Authority,55.017,72.521,0,0.964
+REC-00859,2025-04-04,Renewable Utilities,State Highway Admin,56.216,72.306,0,0.955
+REC-00860,2025-06-04,Municipal IT Services,Federal Department A,55.426,56.857,0,0.895
+REC-00861,2025-05-25,Defense Logistics,Metro Transit Agency,38.927,50.815,0,0.897
+REC-00862,2025-04-24,Renewable Utilities,National Health Board,68.62,91.007,0,0.958
+REC-00863,2025-12-26,Defense Logistics,Metro Transit Agency,87.863,79.804,0,0.882
+REC-00864,2025-06-28,Municipal IT Services,State Highway Admin,79.448,102.874,0,0.964
+REC-00865,2025-06-25,Municipal IT Services,Federal Department A,73.279,66.632,0,0.956
+REC-00866,2025-12-19,Municipal IT Services,State Highway Admin,27.836,37.316,0,0.964
+REC-00867,2025-02-27,Civil Infrastructure,Metro Transit Agency,74.373,64.798,0,0.967
+REC-00868,2025-09-20,Civil Infrastructure,Metro Transit Agency,20.108,19.636,0,0.953
+REC-00869,2025-02-19,Renewable Utilities,State Highway Admin,59.946,56.949,0,0.883
+REC-00870,2025-03-16,Renewable Utilities,City Water Authority,39.937,51.022,0,0.947
+REC-00871,2025-09-16,Civil Infrastructure,Federal Department A,79.665,98.117,0,0.959
+REC-00872,2025-05-25,Renewable Utilities,Federal Department A,92.754,83.418,1,0.935
+REC-00873,2025-09-01,Renewable Utilities,State Highway Admin,47.372,62.951,0,0.919
+REC-00874,2025-07-14,Public Health Supplies,National Health Board,29.342,26.596,0,0.894
+REC-00875,2025-02-26,Public Health Supplies,Metro Transit Agency,74.793,89.929,0,0.884
+REC-00876,2025-06-17,Civil Infrastructure,Metro Transit Agency,34.107,39.23,0,0.987
+REC-00877,2025-08-16,Renewable Utilities,Metro Transit Agency,34.7,44.336,0,0.888
+REC-00878,2025-09-01,Municipal IT Services,State Highway Admin,11.087,13.161,0,0.924
+REC-00879,2025-09-25,Civil Infrastructure,Federal Department A,22.186,23.302,0,0.891
+REC-00880,2025-03-28,Municipal IT Services,State Highway Admin,38.784,44.504,0,0.894
+REC-00881,2025-08-06,Municipal IT Services,National Health Board,60.46,74.254,0,0.984
+REC-00882,2025-07-02,Renewable Utilities,Metro Transit Agency,93.939,103.869,1,0.93
+REC-00883,2025-03-04,Defense Logistics,Metro Transit Agency,29.62,39.134,1,0.961
+REC-00884,2025-02-04,Civil Infrastructure,State Highway Admin,42.524,50.587,0,0.948
+REC-00885,2025-02-19,Renewable Utilities,Metro Transit Agency,77.382,73.588,0,0.934
+REC-00886,2025-05-14,Municipal IT Services,National Health Board,56.463,74.886,1,0.927
+REC-00887,2025-03-02,Defense Logistics,City Water Authority,82.494,88.374,1,0.899
+REC-00888,2025-12-04,Public Health Supplies,Metro Transit Agency,46.608,46.898,0,0.964
+REC-00889,2025-10-19,Defense Logistics,National Health Board,68.257,77.547,0,0.974
+REC-00890,2025-09-17,Defense Logistics,City Water Authority,52.049,69.508,0,0.919
+REC-00891,2025-05-26,Civil Infrastructure,Federal Department A,60.189,55.019,0,0.969
+REC-00892,2025-10-26,Municipal IT Services,Metro Transit Agency,18.275,18.687,0,0.919
+REC-00893,2025-12-05,Public Health Supplies,State Highway Admin,65.087,74.607,0,0.887
+REC-00894,2025-06-06,Municipal IT Services,State Highway Admin,11.676,11.828,0,0.975
+REC-00895,2025-10-18,Defense Logistics,City Water Authority,11.734,12.73,1,0.915
+REC-00896,2025-10-20,Municipal IT Services,National Health Board,18.307,20.031,0,0.903
+REC-00897,2025-09-12,Municipal IT Services,State Highway Admin,62.26,64.232,0,0.935
+REC-00898,2025-02-08,Public Health Supplies,City Water Authority,32.538,32.494,0,0.969
+REC-00899,2025-11-16,Renewable Utilities,Federal Department A,60.308,59.505,0,0.938
+REC-00900,2025-08-07,Municipal IT Services,Federal Department A,65.381,65.441,0,0.928
+REC-00901,2025-10-04,Public Health Supplies,Metro Transit Agency,44.196,51.377,0,0.964
+REC-00902,2025-04-03,Renewable Utilities,State Highway Admin,59.032,56.463,0,0.962
+REC-00903,2025-08-28,Renewable Utilities,National Health Board,82.486,107.514,0,0.96
+REC-00904,2025-01-31,Public Health Supplies,City Water Authority,49.311,47.841,0,0.964
+REC-00905,2025-08-11,Municipal IT Services,Federal Department A,63.884,81.323,0,0.912
+REC-00906,2025-03-24,Renewable Utilities,State Highway Admin,44.499,40.351,0,0.907
+REC-00907,2025-06-08,Defense Logistics,National Health Board,94.26,100.011,1,0.902
+REC-00908,2025-05-20,Civil Infrastructure,City Water Authority,77.122,76.265,0,0.951
+REC-00909,2025-01-22,Civil Infrastructure,Federal Department A,83.065,74.091,0,0.975
+REC-00910,2025-07-28,Civil Infrastructure,Metro Transit Agency,90.169,109.295,1,0.892
+REC-00911,2025-09-14,Renewable Utilities,National Health Board,90.722,119.37,1,0.977
+REC-00912,2025-05-02,Civil Infrastructure,City Water Authority,37.989,43.39,0,0.962
+REC-00913,2025-05-01,Public Health Supplies,State Highway Admin,19.079,18.26,0,0.925
+REC-00914,2025-10-29,Defense Logistics,National Health Board,41.85,55.424,0,0.927
+REC-00915,2025-12-16,Municipal IT Services,State Highway Admin,40.855,49.346,0,0.882
+REC-00916,2025-11-07,Civil Infrastructure,State Highway Admin,31.504,32.838,0,0.957
+REC-00917,2025-12-17,Renewable Utilities,State Highway Admin,82.9,86.567,0,0.923
+REC-00918,2025-05-11,Civil Infrastructure,State Highway Admin,35.281,45.149,0,0.928
+REC-00919,2025-06-12,Defense Logistics,Federal Department A,33.293,29.632,0,0.934
+REC-00920,2025-07-31,Defense Logistics,Federal Department A,80.074,96.028,0,0.919
+REC-00921,2025-11-05,Municipal IT Services,Metro Transit Agency,69.093,85.053,0,0.9
+REC-00922,2025-08-16,Public Health Supplies,Federal Department A,44.056,51.288,0,0.889
+REC-00923,2025-03-22,Renewable Utilities,State Highway Admin,81.992,97.806,0,0.915
+REC-00924,2025-09-02,Municipal IT Services,State Highway Admin,68.435,86.46,0,0.902
+REC-00925,2025-08-01,Public Health Supplies,Metro Transit Agency,84.493,111.732,0,0.905
+REC-00926,2025-01-12,Renewable Utilities,State Highway Admin,87.082,116.434,0,0.957
+REC-00927,2025-03-28,Defense Logistics,National Health Board,46.457,45.532,0,0.92
+REC-00928,2025-10-18,Civil Infrastructure,National Health Board,46.988,61.554,0,0.954
+REC-00929,2025-03-02,Public Health Supplies,State Highway Admin,90.414,113.624,1,0.962
+REC-00930,2025-07-15,Defense Logistics,State Highway Admin,61.007,82.213,0,0.954
+REC-00931,2025-08-03,Defense Logistics,State Highway Admin,12.446,16.654,0,0.93
+REC-00932,2025-05-08,Renewable Utilities,Metro Transit Agency,17.288,18.748,0,0.987
+REC-00933,2025-07-23,Public Health Supplies,Metro Transit Agency,70.219,85.53,0,0.89
+REC-00934,2025-01-31,Municipal IT Services,State Highway Admin,50.029,51.387,0,0.954
+REC-00935,2025-11-03,Civil Infrastructure,City Water Authority,52.886,55.026,0,0.954
+REC-00936,2025-03-09,Civil Infrastructure,National Health Board,25.247,23.604,0,0.917
+REC-00937,2025-08-28,Civil Infrastructure,City Water Authority,70.372,75.049,0,0.914
+REC-00938,2025-03-07,Municipal IT Services,City Water Authority,88.73,87.972,0,0.947
+REC-00939,2025-05-16,Municipal IT Services,Metro Transit Agency,85.877,86.544,0,0.964
+REC-00940,2025-03-19,Defense Logistics,Federal Department A,26.058,22.86,0,0.932
+REC-00941,2025-03-25,Defense Logistics,Federal Department A,94.592,124.256,1,0.919
+REC-00942,2025-10-15,Defense Logistics,Metro Transit Agency,19.562,23.668,0,0.918
+REC-00943,2025-04-15,Public Health Supplies,State Highway Admin,73.745,93.014,0,0.953
+REC-00944,2025-04-19,Civil Infrastructure,National Health Board,75.182,70.692,0,0.907
+REC-00945,2025-09-13,Civil Infrastructure,City Water Authority,12.207,14.534,0,0.923
+REC-00946,2025-10-30,Municipal IT Services,State Highway Admin,12.454,13.452,0,0.933
+REC-00947,2025-11-18,Renewable Utilities,Federal Department A,38.001,33.134,0,0.93
+REC-00948,2025-10-19,Public Health Supplies,Federal Department A,78.132,77.466,0,0.962
+REC-00949,2025-10-08,Defense Logistics,Federal Department A,43.903,41.225,0,0.975
+REC-00950,2025-02-15,Public Health Supplies,State Highway Admin,43.023,45.226,0,0.985
+REC-00951,2025-03-20,Municipal IT Services,Metro Transit Agency,78.094,95.114,0,0.979
+REC-00952,2025-11-05,Municipal IT Services,Federal Department A,80.724,89.307,0,0.977
+REC-00953,2025-09-01,Renewable Utilities,National Health Board,45.961,56.451,0,0.948
+REC-00954,2025-08-11,Defense Logistics,Federal Department A,13.437,13.717,0,0.905
+REC-00955,2025-12-18,Defense Logistics,National Health Board,63.513,70.648,0,0.928
+REC-00956,2025-09-02,Public Health Supplies,State Highway Admin,68.167,68.181,0,0.927
+REC-00957,2025-10-19,Renewable Utilities,Federal Department A,87.971,97.358,0,0.925
+REC-00958,2025-08-26,Renewable Utilities,City Water Authority,40.214,45.956,0,0.882
+REC-00959,2025-12-05,Public Health Supplies,State Highway Admin,81.647,71.248,0,0.957
+REC-00960,2025-06-10,Defense Logistics,Metro Transit Agency,63.024,61.923,0,0.976
+REC-00961,2025-04-06,Public Health Supplies,Federal Department A,73.497,84.67,0,0.892
+REC-00962,2025-10-01,Civil Infrastructure,Metro Transit Agency,19.918,18.641,0,0.956
+REC-00963,2025-12-03,Defense Logistics,City Water Authority,62.572,83.656,0,0.954
+REC-00964,2025-12-20,Defense Logistics,City Water Authority,17.449,16.01,0,0.97
+REC-00965,2025-12-23,Civil Infrastructure,State Highway Admin,50.895,46.955,0,0.973
+REC-00966,2025-10-03,Civil Infrastructure,City Water Authority,75.426,69.7,0,0.893
+REC-00967,2025-03-20,Defense Logistics,Metro Transit Agency,50.077,64.093,0,0.902
+REC-00968,2025-10-19,Civil Infrastructure,City Water Authority,10.669,12.432,0,0.988
+REC-00969,2025-09-11,Renewable Utilities,National Health Board,94.917,82.436,1,0.936
+REC-00970,2025-11-10,Defense Logistics,State Highway Admin,70.715,78.787,0,0.915
+REC-00971,2025-02-02,Defense Logistics,Metro Transit Agency,19.94,23.157,0,0.929
+REC-00972,2025-08-12,Public Health Supplies,City Water Authority,71.728,77.798,0,0.936
+REC-00973,2025-10-28,Municipal IT Services,National Health Board,82.544,99.68,0,0.977
+REC-00974,2025-07-19,Municipal IT Services,Metro Transit Agency,77.979,99.21,0,0.911
+REC-00975,2025-02-14,Defense Logistics,State Highway Admin,24.73,22.953,0,0.967
+REC-00976,2025-09-10,Public Health Supplies,State Highway Admin,57.331,77.376,0,0.909
+REC-00977,2025-12-13,Public Health Supplies,National Health Board,12.717,11.214,0,0.948
+REC-00978,2025-03-03,Public Health Supplies,Metro Transit Agency,31.915,32.558,0,0.885
+REC-00979,2025-10-13,Public Health Supplies,National Health Board,61.365,55.356,0,0.984
+REC-00980,2025-08-23,Civil Infrastructure,National Health Board,61.821,79.081,0,0.942
+REC-00981,2025-09-17,Public Health Supplies,Federal Department A,84.024,109.693,0,0.912
+REC-00982,2025-08-15,Defense Logistics,Federal Department A,23.115,23.852,0,0.894
+REC-00983,2025-04-14,Defense Logistics,Federal Department A,30.852,38.706,0,0.936
+REC-00984,2025-02-13,Municipal IT Services,Metro Transit Agency,40.655,48.074,0,0.963
+REC-00985,2025-08-04,Public Health Supplies,Metro Transit Agency,45.14,47.607,0,0.974
+REC-00986,2025-12-16,Civil Infrastructure,Metro Transit Agency,22.375,19.13,0,0.984
+REC-00987,2025-02-13,Municipal IT Services,Metro Transit Agency,93.465,87.125,1,0.964
+REC-00988,2025-12-05,Public Health Supplies,National Health Board,14.914,17.387,0,0.953
+REC-00989,2025-09-24,Defense Logistics,Metro Transit Agency,85.292,102.384,0,0.959
+REC-00990,2025-06-10,Civil Infrastructure,City Water Authority,86.518,99.946,0,0.924
+REC-00991,2025-11-26,Renewable Utilities,National Health Board,77.009,90.564,0,0.978
+REC-00992,2025-11-29,Public Health Supplies,City Water Authority,17.164,19.202,0,0.959
+REC-00993,2025-03-06,Renewable Utilities,City Water Authority,28.167,31.148,0,0.917
+REC-00994,2025-11-22,Civil Infrastructure,Federal Department A,85.677,95.955,0,0.972
+REC-00995,2025-06-05,Renewable Utilities,Federal Department A,72.219,91.775,0,0.936
+REC-00996,2025-03-05,Civil Infrastructure,Metro Transit Agency,35.327,43.043,0,0.988
+REC-00997,2025-10-25,Renewable Utilities,National Health Board,29.876,29.864,0,0.97
+REC-00998,2025-10-21,Public Health Supplies,Metro Transit Agency,54.172,52.754,0,0.944
+REC-00999,2025-07-04,Civil Infrastructure,State Highway Admin,70.489,89.114,0,0.887
+REC-01000,2025-03-08,Public Health Supplies,Metro Transit Agency,16.636,19.77,0,0.941
+REC-01001,2025-07-22,Renewable Utilities,Metro Transit Agency,64.099,86.422,0,0.984
+REC-01002,2025-08-02,Public Health Supplies,National Health Board,20.806,25.083,0,0.957
+REC-01003,2025-09-28,Public Health Supplies,Metro Transit Agency,50.235,61.45,0,0.921
+REC-01004,2025-03-02,Defense Logistics,Federal Department A,20.274,23.029,1,0.897
+REC-01005,2025-07-10,Municipal IT Services,City Water Authority,34.988,30.229,0,0.966
+REC-01006,2025-08-04,Municipal IT Services,City Water Authority,28.324,35.676,0,0.893
+REC-01007,2025-06-28,Civil Infrastructure,Metro Transit Agency,50.9,51.147,0,0.917
+REC-01008,2025-07-13,Renewable Utilities,State Highway Admin,74.766,82.421,0,0.929
+REC-01009,2025-08-18,Municipal IT Services,Federal Department A,77.984,92.197,0,0.906
+REC-01010,2025-07-22,Renewable Utilities,Federal Department A,91.437,118.413,1,0.951
+REC-01011,2025-03-26,Renewable Utilities,City Water Authority,57.689,52.606,0,0.901
+REC-01012,2025-11-13,Renewable Utilities,Federal Department A,91.37,101.501,1,0.935
+REC-01013,2025-01-10,Renewable Utilities,State Highway Admin,91.802,90.653,1,0.971
+REC-01014,2025-10-24,Civil Infrastructure,National Health Board,61.583,64.718,1,0.975
+REC-01015,2025-01-12,Defense Logistics,State Highway Admin,45.27,57.938,0,0.908
+REC-01016,2025-02-28,Renewable Utilities,State Highway Admin,34.255,32.245,0,0.897
+REC-01017,2025-07-28,Public Health Supplies,Federal Department A,62.23,63.017,1,0.886
+REC-01018,2025-07-19,Municipal IT Services,State Highway Admin,45.09,45.636,0,0.971
+REC-01019,2025-03-03,Public Health Supplies,State Highway Admin,73.931,84.504,0,0.963
+REC-01020,2025-07-17,Municipal IT Services,Federal Department A,37.059,41.749,0,0.883
+REC-01021,2025-11-21,Civil Infrastructure,City Water Authority,57.096,65.266,0,0.964
+REC-01022,2025-11-30,Municipal IT Services,National Health Board,44.573,39.757,0,0.902
+REC-01023,2025-03-14,Renewable Utilities,State Highway Admin,76.472,85.554,0,0.98
+REC-01024,2025-08-20,Civil Infrastructure,Metro Transit Agency,91.695,106.4,1,0.898
+REC-01025,2025-01-31,Municipal IT Services,National Health Board,31.326,37.278,0,0.973
+REC-01026,2025-04-19,Renewable Utilities,City Water Authority,13.866,16.911,0,0.913
+REC-01027,2025-07-22,Civil Infrastructure,State Highway Admin,71.631,96.66,0,0.903
+REC-01028,2025-09-16,Municipal IT Services,City Water Authority,93.269,112.284,1,0.953
+REC-01029,2025-06-14,Public Health Supplies,Metro Transit Agency,91.514,92.816,1,0.895
+REC-01030,2025-01-02,Defense Logistics,Federal Department A,86.623,102.765,0,0.978
+REC-01031,2025-12-27,Defense Logistics,National Health Board,16.898,21.771,0,0.939
+REC-01032,2025-12-10,Civil Infrastructure,City Water Authority,92.623,96.16,1,0.923
+REC-01033,2025-12-23,Civil Infrastructure,Metro Transit Agency,41.491,39.271,1,0.962
+REC-01034,2025-05-24,Municipal IT Services,State Highway Admin,17.647,20.413,0,0.959
+REC-01035,2025-04-30,Municipal IT Services,Federal Department A,33.864,44.1,0,0.903
+REC-01036,2025-04-11,Defense Logistics,Federal Department A,83.943,95.238,0,0.941
+REC-01037,2025-12-04,Renewable Utilities,National Health Board,24.92,28.511,0,0.894
+REC-01038,2025-10-19,Renewable Utilities,City Water Authority,26.307,31.279,0,0.956
+REC-01039,2025-09-30,Municipal IT Services,National Health Board,85.064,72.388,0,0.954
+REC-01040,2025-11-29,Municipal IT Services,Metro Transit Agency,81.769,86.139,0,0.937
+REC-01041,2025-09-11,Renewable Utilities,Federal Department A,85.123,81.912,0,0.926
+REC-01042,2025-08-18,Civil Infrastructure,Metro Transit Agency,26.542,23.646,0,0.883
+REC-01043,2025-04-26,Defense Logistics,Federal Department A,87.945,83.41,0,0.887
+REC-01044,2025-11-17,Civil Infrastructure,Metro Transit Agency,46.716,40.27,0,0.983
+REC-01045,2025-05-09,Civil Infrastructure,Metro Transit Agency,30.261,30.878,0,0.917
+REC-01046,2025-05-02,Renewable Utilities,National Health Board,47.275,42.445,0,0.894
+REC-01047,2025-02-01,Defense Logistics,City Water Authority,85.657,102.504,0,0.887
+REC-01048,2025-08-15,Municipal IT Services,National Health Board,63.226,55.822,0,0.942
+REC-01049,2025-05-31,Defense Logistics,Federal Department A,62.471,65.942,0,0.967
+REC-01050,2025-11-16,Defense Logistics,Metro Transit Agency,49.458,52.626,0,0.891
+REC-01051,2025-11-30,Civil Infrastructure,Metro Transit Agency,53.963,61.729,0,0.881
+REC-01052,2025-02-04,Public Health Supplies,National Health Board,20.708,22.871,0,0.933
+REC-01053,2025-11-14,Public Health Supplies,State Highway Admin,21.702,18.925,0,0.944
+REC-01054,2025-09-20,Municipal IT Services,City Water Authority,59.612,66.8,0,0.932
+REC-01055,2025-11-05,Municipal IT Services,City Water Authority,92.473,102.538,1,0.896
+REC-01056,2025-05-02,Renewable Utilities,Federal Department A,45.875,43.476,0,0.98
+REC-01057,2025-02-05,Public Health Supplies,Metro Transit Agency,69.056,92.601,0,0.916
+REC-01058,2025-10-24,Municipal IT Services,National Health Board,35.469,35.977,0,0.976
+REC-01059,2025-01-22,Public Health Supplies,Federal Department A,64.295,76.936,0,0.903
+REC-01060,2025-09-04,Defense Logistics,State Highway Admin,44.027,55.608,1,0.881
+REC-01061,2025-07-03,Renewable Utilities,Federal Department A,22.104,23.656,0,0.98
+REC-01062,2025-07-04,Civil Infrastructure,State Highway Admin,26.815,25.128,0,0.959
+REC-01063,2025-06-23,Public Health Supplies,State Highway Admin,26.659,25.007,0,0.891
+REC-01064,2025-12-13,Defense Logistics,Federal Department A,38.763,37.023,0,0.921
+REC-01065,2025-07-10,Public Health Supplies,National Health Board,93.054,125.516,1,0.977
+REC-01066,2025-02-03,Public Health Supplies,State Highway Admin,77.566,73.365,0,0.921
+REC-01067,2025-11-03,Public Health Supplies,Federal Department A,74.862,85.617,0,0.912
+REC-01068,2025-03-18,Public Health Supplies,Federal Department A,63.504,62.871,0,0.936
+REC-01069,2025-10-27,Public Health Supplies,Federal Department A,76.697,95.526,0,0.898
+REC-01070,2025-07-18,Renewable Utilities,City Water Authority,52.38,56.682,0,0.921
+REC-01071,2025-12-22,Defense Logistics,Metro Transit Agency,32.809,34.465,0,0.944
+REC-01072,2025-01-19,Public Health Supplies,State Highway Admin,48.427,46.838,0,0.927
+REC-01073,2025-07-13,Public Health Supplies,City Water Authority,31.635,28.23,0,0.912
+REC-01074,2025-09-23,Public Health Supplies,National Health Board,13.497,14.929,0,0.93
+REC-01075,2025-08-10,Municipal IT Services,Metro Transit Agency,36.947,38.469,0,0.906
+REC-01076,2025-11-27,Municipal IT Services,Federal Department A,35.034,38.568,0,0.889
+REC-01077,2025-05-22,Civil Infrastructure,Federal Department A,16.065,13.963,0,0.902
+REC-01078,2025-06-18,Municipal IT Services,City Water Authority,26.205,30.189,0,0.974
+REC-01079,2025-10-06,Civil Infrastructure,City Water Authority,33.957,34.749,0,0.984
+REC-01080,2025-10-24,Civil Infrastructure,Metro Transit Agency,65.598,88.206,0,0.975
+REC-01081,2025-04-27,Public Health Supplies,Metro Transit Agency,29.866,34.152,0,0.932
+REC-01082,2025-08-25,Civil Infrastructure,City Water Authority,81.893,87.167,0,0.926
+REC-01083,2025-08-13,Renewable Utilities,Federal Department A,41.85,47.657,0,0.984
+REC-01084,2025-01-05,Municipal IT Services,City Water Authority,29.167,31.0,0,0.964
+REC-01085,2025-12-20,Municipal IT Services,City Water Authority,59.891,67.904,1,0.895
+REC-01086,2025-06-19,Renewable Utilities,National Health Board,58.78,61.451,0,0.984
+REC-01087,2025-02-02,Defense Logistics,State Highway Admin,50.356,51.082,0,0.95
+REC-01088,2025-06-05,Public Health Supplies,Federal Department A,67.365,63.243,0,0.946
+REC-01089,2025-01-14,Public Health Supplies,Federal Department A,87.464,91.22,0,0.912
+REC-01090,2025-09-26,Defense Logistics,Federal Department A,41.335,35.363,0,0.98
+REC-01091,2025-07-20,Civil Infrastructure,State Highway Admin,55.599,60.554,0,0.985
+REC-01092,2025-04-16,Public Health Supplies,City Water Authority,46.737,56.31,0,0.946
+REC-01093,2025-06-08,Public Health Supplies,National Health Board,70.926,76.563,0,0.989
+REC-01094,2025-08-17,Defense Logistics,National Health Board,78.643,87.524,0,0.977
+REC-01095,2025-08-24,Renewable Utilities,Federal Department A,72.67,72.231,0,0.93
+REC-01096,2025-12-25,Defense Logistics,National Health Board,79.992,101.984,0,0.9
+REC-01097,2025-11-13,Defense Logistics,Metro Transit Agency,87.421,82.326,0,0.923
+REC-01098,2025-01-23,Public Health Supplies,City Water Authority,85.017,95.123,0,0.887
+REC-01099,2025-04-22,Defense Logistics,National Health Board,20.305,21.003,0,0.935
+REC-01100,2025-06-16,Defense Logistics,State Highway Admin,31.485,34.729,0,0.888
+REC-01101,2025-12-22,Defense Logistics,Metro Transit Agency,39.211,41.159,0,0.884
+REC-01102,2025-05-09,Public Health Supplies,City Water Authority,66.975,72.475,0,0.889
+REC-01103,2025-12-03,Defense Logistics,State Highway Admin,50.017,49.495,0,0.972
+REC-01104,2025-11-07,Public Health Supplies,City Water Authority,20.553,25.09,0,0.954
+REC-01105,2025-01-06,Municipal IT Services,State Highway Admin,47.456,44.56,0,0.978
+REC-01106,2025-09-30,Defense Logistics,Federal Department A,81.103,101.846,0,0.959
+REC-01107,2025-02-22,Municipal IT Services,Metro Transit Agency,14.455,12.32,0,0.964
+REC-01108,2025-05-08,Public Health Supplies,State Highway Admin,17.768,18.849,0,0.917
+REC-01109,2025-04-09,Civil Infrastructure,State Highway Admin,91.493,82.188,1,0.953
+REC-01110,2025-03-27,Defense Logistics,National Health Board,19.153,19.413,0,0.901
+REC-01111,2025-04-17,Defense Logistics,Metro Transit Agency,20.268,19.394,0,0.899
+REC-01112,2025-07-25,Municipal IT Services,Federal Department A,43.081,46.501,0,0.97
+REC-01113,2025-11-29,Municipal IT Services,Federal Department A,15.723,15.083,0,0.946
+REC-01114,2025-02-22,Renewable Utilities,State Highway Admin,31.415,28.191,0,0.949
+REC-01115,2025-07-18,Public Health Supplies,City Water Authority,24.903,30.652,0,0.988
+REC-01116,2025-12-08,Civil Infrastructure,City Water Authority,11.5,15.02,0,0.936
+REC-01117,2025-04-30,Renewable Utilities,Federal Department A,29.772,34.481,0,0.914
+REC-01118,2025-08-08,Renewable Utilities,Federal Department A,15.093,15.655,0,0.897
+REC-01119,2025-04-15,Civil Infrastructure,State Highway Admin,88.49,101.678,0,0.961
+REC-01120,2025-06-18,Municipal IT Services,City Water Authority,64.706,79.604,0,0.988
+REC-01121,2025-11-28,Civil Infrastructure,State Highway Admin,81.989,83.271,0,0.939
+REC-01122,2025-12-07,Public Health Supplies,National Health Board,84.18,93.502,0,0.949
+REC-01123,2025-02-03,Civil Infrastructure,State Highway Admin,14.429,19.422,0,0.894
+REC-01124,2025-03-30,Renewable Utilities,State Highway Admin,30.086,26.749,0,0.914
+REC-01125,2025-04-12,Defense Logistics,State Highway Admin,61.497,61.592,0,0.986
+REC-01126,2025-04-14,Defense Logistics,Federal Department A,90.836,93.542,1,0.932
+REC-01127,2025-08-05,Renewable Utilities,Metro Transit Agency,74.628,94.016,0,0.882
+REC-01128,2025-07-15,Civil Infrastructure,City Water Authority,60.591,56.131,0,0.908
+REC-01129,2025-08-26,Defense Logistics,City Water Authority,41.887,48.296,0,0.895
+REC-01130,2025-08-29,Public Health Supplies,State Highway Admin,10.355,13.263,0,0.921
+REC-01131,2025-07-27,Defense Logistics,City Water Authority,42.643,42.81,0,0.888
+REC-01132,2025-01-20,Defense Logistics,National Health Board,23.801,29.31,0,0.965
+REC-01133,2025-06-28,Defense Logistics,City Water Authority,69.199,81.34,0,0.961
+REC-01134,2025-05-05,Civil Infrastructure,City Water Authority,63.631,75.607,0,0.951
+REC-01135,2025-05-14,Defense Logistics,State Highway Admin,31.614,36.39,0,0.973
+REC-01136,2025-01-07,Civil Infrastructure,Metro Transit Agency,43.802,50.069,0,0.937
+REC-01137,2025-04-07,Public Health Supplies,Metro Transit Agency,31.494,31.529,0,0.952
+REC-01138,2025-07-15,Municipal IT Services,Metro Transit Agency,73.959,97.046,0,0.892
+REC-01139,2025-10-21,Public Health Supplies,City Water Authority,73.642,96.84,0,0.914
+REC-01140,2025-03-28,Civil Infrastructure,Federal Department A,15.937,19.095,0,0.952
+REC-01141,2025-08-09,Public Health Supplies,City Water Authority,25.844,23.703,0,0.935
+REC-01142,2025-02-26,Renewable Utilities,State Highway Admin,25.779,22.672,0,0.964
+REC-01143,2025-05-13,Defense Logistics,National Health Board,19.282,22.526,0,0.889
+REC-01144,2025-03-05,Civil Infrastructure,City Water Authority,12.522,12.114,0,0.964
+REC-01145,2025-01-05,Municipal IT Services,Federal Department A,66.552,82.831,1,0.903
+REC-01146,2025-01-04,Renewable Utilities,National Health Board,93.886,115.544,1,0.932
+REC-01147,2025-06-22,Defense Logistics,City Water Authority,41.517,53.768,0,0.97
+REC-01148,2025-07-04,Defense Logistics,Metro Transit Agency,61.919,82.826,0,0.969
+REC-01149,2025-01-02,Defense Logistics,State Highway Admin,12.183,11.104,0,0.985
+REC-01150,2025-05-08,Defense Logistics,National Health Board,68.326,87.794,0,0.953
+REC-01151,2025-01-02,Municipal IT Services,Federal Department A,63.871,82.184,0,0.961
+REC-01152,2025-12-14,Public Health Supplies,National Health Board,51.186,62.427,0,0.918
+REC-01153,2025-09-01,Civil Infrastructure,Metro Transit Agency,34.978,33.143,0,0.937
+REC-01154,2025-10-20,Civil Infrastructure,State Highway Admin,52.324,46.754,0,0.99
+REC-01155,2025-08-28,Defense Logistics,Federal Department A,50.984,57.119,0,0.899
+REC-01156,2025-12-04,Civil Infrastructure,Federal Department A,46.966,56.729,0,0.982
+REC-01157,2025-07-16,Public Health Supplies,City Water Authority,66.604,88.3,0,0.953
+REC-01158,2025-10-01,Defense Logistics,Federal Department A,77.621,78.894,0,0.943
+REC-01159,2025-11-04,Municipal IT Services,Metro Transit Agency,87.364,106.714,0,0.952
+REC-01160,2025-10-15,Public Health Supplies,State Highway Admin,32.023,31.879,0,0.917
+REC-01161,2025-10-31,Civil Infrastructure,National Health Board,41.258,52.673,0,0.943
+REC-01162,2025-01-01,Civil Infrastructure,National Health Board,55.526,70.716,0,0.915
+REC-01163,2025-07-06,Public Health Supplies,National Health Board,66.418,76.074,0,0.881
+REC-01164,2025-08-24,Public Health Supplies,City Water Authority,81.163,89.273,0,0.946
+REC-01165,2025-03-16,Civil Infrastructure,National Health Board,37.212,40.977,0,0.91
+REC-01166,2025-10-21,Public Health Supplies,Metro Transit Agency,34.777,46.366,0,0.969
+REC-01167,2025-03-20,Public Health Supplies,Federal Department A,88.468,109.525,0,0.96
+REC-01168,2025-06-03,Public Health Supplies,Federal Department A,56.575,57.633,0,0.989
+REC-01169,2025-07-20,Civil Infrastructure,National Health Board,71.774,71.141,0,0.957
+REC-01170,2025-10-08,Civil Infrastructure,State Highway Admin,37.491,46.7,0,0.886
+REC-01171,2025-06-05,Public Health Supplies,National Health Board,21.693,25.988,0,0.896
+REC-01172,2025-04-22,Civil Infrastructure,City Water Authority,71.706,81.59,0,0.989
+REC-01173,2025-03-17,Defense Logistics,State Highway Admin,88.709,79.663,0,0.9
+REC-01174,2025-01-27,Renewable Utilities,City Water Authority,60.438,80.676,0,0.924
+REC-01175,2025-01-18,Public Health Supplies,Metro Transit Agency,51.533,61.53,0,0.952
+REC-01176,2025-07-12,Civil Infrastructure,Metro Transit Agency,83.516,98.144,0,0.952
+REC-01177,2025-07-08,Civil Infrastructure,Federal Department A,17.024,18.635,0,0.936
+REC-01178,2025-01-12,Renewable Utilities,National Health Board,50.757,60.749,0,0.945
+REC-01179,2025-07-16,Defense Logistics,City Water Authority,58.571,52.698,0,0.98
+REC-01180,2025-10-03,Defense Logistics,Federal Department A,43.473,54.721,0,0.938
+REC-01181,2025-02-02,Renewable Utilities,National Health Board,70.669,87.985,0,0.963
+REC-01182,2025-12-04,Public Health Supplies,National Health Board,69.093,58.913,0,0.915
+REC-01183,2025-01-21,Renewable Utilities,State Highway Admin,65.474,58.528,0,0.963
+REC-01184,2025-02-13,Renewable Utilities,City Water Authority,40.903,45.902,0,0.984
+REC-01185,2025-01-01,Municipal IT Services,Federal Department A,90.428,100.35,1,0.953
+REC-01186,2025-08-16,Renewable Utilities,Metro Transit Agency,69.084,76.775,0,0.919
+REC-01187,2025-10-03,Public Health Supplies,Federal Department A,66.322,57.857,1,0.896
+REC-01188,2025-04-21,Renewable Utilities,National Health Board,28.363,29.201,0,0.948
+REC-01189,2025-02-08,Municipal IT Services,City Water Authority,42.451,55.264,0,0.889
+REC-01190,2025-05-11,Defense Logistics,State Highway Admin,55.552,49.179,0,0.989
+REC-01191,2025-12-23,Public Health Supplies,City Water Authority,57.91,67.98,0,0.898
+REC-01192,2025-03-20,Defense Logistics,Metro Transit Agency,12.202,14.054,0,0.894
+REC-01193,2025-02-26,Renewable Utilities,Metro Transit Agency,15.607,18.262,0,0.917
+REC-01194,2025-05-20,Public Health Supplies,City Water Authority,10.838,11.256,0,0.922
+REC-01195,2025-02-23,Public Health Supplies,National Health Board,71.908,72.143,0,0.934
+REC-01196,2025-09-28,Renewable Utilities,City Water Authority,56.881,65.626,0,0.899
+REC-01197,2025-07-19,Municipal IT Services,National Health Board,56.892,73.448,0,0.945
+REC-01198,2025-05-13,Renewable Utilities,State Highway Admin,65.893,60.71,0,0.909
+REC-01199,2025-11-24,Public Health Supplies,National Health Board,45.551,49.145,0,0.919
+REC-01200,2025-08-28,Municipal IT Services,City Water Authority,90.972,101.006,1,0.982

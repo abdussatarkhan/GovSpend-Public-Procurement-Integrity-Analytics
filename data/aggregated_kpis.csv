@@ -1,0 +1,6 @@
+entity_type,total_records,mean_contract_amount,p95_single_bidder_flag,anomaly_count
+Civil Infrastructure,234,54.04,103.36,23
+Public Health Supplies,248,53.51,109.69,19
+Municipal IT Services,231,52.13,102.59,30
+Defense Logistics,242,49.86,101.98,23
+Renewable Utilities,245,51.4,103.2,21
