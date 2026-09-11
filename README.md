@@ -85,6 +85,10 @@ erDiagram
 ---
 
 ## 📊 Interactive Executive Dashboard
+<p align="center">
+  <img src="screenshots/01_executive_dashboard.png" alt="Executive Dashboard Preview" width="95%" />
+</p>
+
 
 The repository includes a standalone, self-contained executive dashboard (**[`dashboard.html`](dashboard.html)**) built with high-performance responsive CSS and Chart.js.
 
